@@ -28,7 +28,7 @@ from django.utils.encoding import smart_str
 import env
 models = env.models
 
-import pubmed
+import PubmedParser
 import getGEOSamples_byType_gse
 import scrna_parser_from_gse  
 
@@ -282,7 +282,7 @@ def update_one_sample(gseid, ddir='geo', parse_fields=['other_ids', 'paper', 'na
         print('+++ paper')
         try:
             pmid = xmlContent['Series/Pubmed-ID']
-            paper = pubmed.getOrCreatePaper(pmid)
+            paper = PubmedParser.getOrCreatePaper(pmid)
         except:
             pmid = None
             paper = None
