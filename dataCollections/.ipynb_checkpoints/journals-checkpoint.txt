@@ -1,0 +1,243 @@
+name	issn	impact_factor
+ACS Chem. Biol.		0.0
+AIDS		0.0
+Acta Neuropathol.		0.0
+Aging Cell		0.0
+Am. J. Hum. Genet.		10.603
+Am. J. Pathol.		4.89
+Am. J. Physiol. Heart Circ. Physiol.		0.0
+Am. J. Physiol. Lung Cell Mol. Physiol.		0.0
+Am. J. Respir. Cell Mol. Biol.		0.0
+Anal. Chem.		0.0
+Angew. Chem. Int. Ed. Engl.		0.0
+Ann. Rheum. Dis.		8.727
+Arch. Toxicol.		0.0
+Arterioscler. Thromb. Vasc. Biol.		0.0
+BMB Rep		0.0
+BMC Bioinformatics		0.0
+BMC Biol.		0.0
+BMC Cancer		0.0
+BMC Dev. Biol.		3.148
+BMC Genomics		4.073
+BMC Med Genomics		0.0
+BMC Res Notes		0.0
+BMC Syst Biol		3.148
+Biochim Biophys Acta Gene Regul Mech		0.0
+Biochim. Biophys. Acta		0.0
+Bioinformatics		5.468
+Biol Open		0.0
+Biol. Reprod.		0.0
+Biomed Res Int		0.0
+Biophys. J.		0.0
+Blood		9.898
+Blood Adv		0.0
+Blood Cancer J		0.0
+Bone		0.0
+Bone Res		0.0
+Brain		0.0
+Breast Cancer Res. Treat.		0.0
+Cancer Cell		26.566
+Cancer Discov		10.143
+Cancer Discov.	 	10.143
+Cancer Lett.		0.0
+Cancer Res.		7.856
+Cancer Sci.		0.0
+Cancers (Basel)		0.0
+Carcinogenesis		0.0
+Cardiovasc. Res.		0.0
+Cell		32.403
+Cell Cycle		5.359
+Cell Death Differ.		0.0
+Cell Death Dis		0.0
+Cell Discov		0.0
+Cell Host Microbe		13.5
+Cell Metab.		13.668
+Cell Mol Gastroenterol Hepatol		0.0
+Cell Rep		2.286
+Cell Res.	1001-0602	8.19
+Cell Stem Cell		25.421
+Cell Syst		0.0
+Cell. Mol. Immunol.		0.0
+Cereb. Cortex		0.0
+Chem. Biol.		0.0
+Circ Cardiovasc Genet		0.0
+Circ Heart Fail		0.0
+Circ. Res.		0.0
+Circulation		0.0
+Circulation Research	 	14.739
+Clin Epigenetics		0.0
+Clin. Cancer Res.		0.0
+Commun Biol		0.0
+Curr. Biol.		0.0
+DNA Res.		0.0
+Database (Oxford)		0.0
+Dev. Biol.		4.069
+Dev. Cell		14.03
+Dev. Growth Differ.		0.0
+Development	1477-9129	6.596
+Diabetologia		0.0
+EBioMedicine		0.0
+EMBO J.		9.205
+EMBO Mol Med		0.0
+EMBO Rep.		7.355
+Electrophoresis		3.303
+Elife		0.0
+Endocrinology		0.0
+Environ. Health Perspect.		0.0
+Epigenetics		4.318
+Epigenetics Chromatin	1756-8935	4.46
+Epigenomics		0.0
+Eur. J. Immunol.		0.0
+Exp. Cell Res.		0.0
+Exp. Hematol.		0.0
+FASEB J.		5.712
+FEBS Lett.		0.0
+Free Radic. Biol. Med.		0.0
+Front Genet		0.0
+Front Immunol		0.0
+Front Mol Neurosci		0.0
+Front Neuroanat		0.0
+Front Oncol		0.0
+G3 (Bethesda)		0.0
+Gastroenterology		0.0
+Genes (Basel)		0.0
+Genes Chromosomes Cancer		3.306
+Genes Dev.		12.444
+Genes Immun.		0.0
+Genetics		4.007
+Genom Data		0.0
+Genome Biol Evol		0.0
+Genome Biol.		9.036
+Genome Med		3.906
+Genome Res.		13.608
+Genomics		0.0
+Gut		0.0
+Haematologica		0.0
+Hepatology		0.0
+Hum. Mol. Genet.		7.636
+Hum. Mutat.		0.0
+IUBMB Life		0.0
+Immunity		21.637
+Immunology		0.0
+Int. J. Biochem. Cell Biol.		0.0
+Int. J. Biol. Sci.		0.0
+Integr Biol (Camb)		0.0
+J Am Heart Assoc		0.0
+J Am Podiatry Assoc		0.768
+J Biomed Biotechnol	1110-7243	2.436
+J Hematol Oncol		0.0
+J Mammary Gland Biol Neoplasia		0.0
+J Mol Cell Biol		0.0
+J Vis Exp		0.0
+J. Allergy Clin. Immunol.		0.0
+J. Am. Chem. Soc.		9.907
+J. Am. Soc. Nephrol.		0.0
+J. Autoimmun.		0.0
+J. Biol. Chem.		4.773
+J. Biol. Rhythms		0.0
+J. Bone Miner. Res.		0.0
+J. Cell Biol.		0.0
+J. Cell. Mol. Med.		0.0
+J. Cell. Physiol.		0.0
+J. Cell. Sci.		0.0
+J. Clin. Endocrinol. Metab.		0.0
+J. Clin. Invest.		13.069
+J. Cyst. Fibros.		0.0
+J. Exp. Med.		13.853
+J. Hepatol.		0.0
+J. Immunol.		5.788
+J. Invest. Dermatol.		0.0
+J. Mol. Biol.		0.0
+J. Mol. Cell. Cardiol.		0.0
+J. Neurosci.		7.115
+J. Steroid Biochem. Mol. Biol.		3.053
+J. Urol.		0.0
+J. Virol.		0.0
+JCI Insight		0.0
+Kidney Int.		0.0
+Leukemia		9.561
+Leukemia.	 	9.561
+Life Sci Alliance		0.0
+Mamm. Genome		0.0
+Metallomics		0.0
+Mol Metab		0.0
+Mol Oncol		0.0
+Mol. Biol. Cell		4.942
+Mol. Biol. Rep.		0.0
+Mol. Cancer		0.0
+Mol. Cancer Res.		0.0
+Mol. Cancer Ther.		0.0
+Mol. Cell		14.178
+Mol. Cell Proteomics		0.0
+Mol. Cell. Biol.		5.527
+Mol. Cell. Endocrinol.		4.192
+Mol. Cell. Neurosci.		0.0
+Mol. Endocrinol.		4.544
+Mol. Genet. Genomics		0.0
+Mol. Hum. Reprod.		0.0
+Mol. Immunol.		2.897
+Mol. Neurobiol.		0.0
+Mol. Pharmacol.		0.0
+Mol. Syst. Biol.		8.626
+Mucosal Immunol		0.0
+Mutat. Res.		0.0
+Nat Commun		7.396
+Nat Metab		0.0
+Nat Protoc		0.0
+Nat. Biotechnol.		23.268
+Nat. Cell Biol.		19.488
+Nat. Chem. Biol.		0.0
+Nat. Genet.		35.532
+Nat. Immunol.		26.008
+Nat. Med.		22.462
+Nat. Methods		19.276
+Nat. Neurosci.		15.531
+Nat. Struct. Mol. Biol.		12.712
+Nature		36.28
+Nature Medicine	1078-8956	22.462
+Neurobiol. Dis.		0.0
+Neuron		14.736
+Nucl Recept Signal		0.0
+Nucleic Acids Res.		8.026
+Nucleus		0.0
+Occup Health Saf		0.0
+Oncogene		6.373
+Oncogenesis		0.0
+Oncoscience		0.0
+Oncotarget	1949-2553	4.784
+Open Access Bioinformatics		0.0
+PLoS Biol.		11.452
+PLoS Comput. Biol.		5.215
+PLoS Genet.		8.694
+PLoS ONE		4.092
+PLoS Pathog.		9.127
+Physiol. Genomics		2.735
+Pigment Cell Melanoma Res		0.0
+Placenta		0.0
+Proc. Natl. Acad. Sci. U.S.A.		9.681
+RNA		0.0
+RNA Biol		0.0
+Reproduction		0.0
+Schizophr Bull		0.0
+Schizophr. Res.		0.0
+Sci Adv		0.0
+Sci Immunol		0.0
+Sci Rep		0.0
+Sci Signal		7.499
+Sci Transl Med		0.0
+Science		31.201
+Stem Cell Reports		0.0
+Stem Cell Res		0.0
+Stem Cell Res Ther		0.0
+Stem Cell Rev		0.0
+Stem Cells		7.781
+Stem Cells Transl Med		0.0
+Theranostics		0.0
+Thorax		0.0
+Toxicol. Appl. Pharmacol.		0.0
+Toxicol. Sci.		4.652
+Transcription		0.0
+Transl Psychiatry		0.0
+Virol. J.		2.343
+eNeuro		0.0
+iScience		0.0

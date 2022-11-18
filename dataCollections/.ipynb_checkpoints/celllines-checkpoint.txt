@@ -1,0 +1,1644 @@
+name	status	comment	aliases
+00136	new		
+1015c	ok		
+10326	ok		
+1064Sk	ok		
+1066	new		
+106A	ok		
+10T1/2	ok		10T12
+11.9	new		
+1125	new		
+1127	new		
+116	new		
+1184	new		
+12.1	new		
+12Z endometriotic epithelial cells	new		
+131.2F8.5.9	new		
+133	new		
+1346	new		
+143B	new		
+1508	new		
+1517	new		
+1522	new		
+153BR	new		
+155	new		
+1552	new		
+162	new		
+168	new		
+1691B	new		
+16HBE14o-	new		
+16T	ok		
+1765-92	new		
+1806	new		
+184	new		
+191	new		
+1919	new		
+1953	new		
+198	new		
+20.3	new		
+200-3-G6-4	ok		2003G64
+200212	new		
+2008/C13*5.25	new		
+207	new		
+2097	new		
+2102EP	new		
+2188-1	new		
+219	new		
+21NT	ok		
+2223	new		
+2229	new		
+2235	new		
+225	new		
+226LDM	new		
+22RV1	ok		
+2305	new		
+232	new		
+2356	new		
+2455	new		
+2481	new		
+2489	new		
+2510	new		
+2519	new		
+2545	new		
+2566	new		
+2576	new		
+25L	ok		
+2647	new		
+266.6	ok		
+2687	new		
+2726	new		
+2894	new		
+2907	new		
+293 Flp-In	new		
+293FT	ok		
+293T	ok		
+293T-Rex	ok		293TRex
+296	new		
+2989	new		
+2997	new		
+29c	new		
+2A3	new		
+2N1	ok		
+2TS22C	ok		
+3.2N	ok		
+3028	new		
+3038	new		
+3057	new		
+3069	new		
+3094	new		
+3117	new		
+3126	new		
+3128	new		
+3134	ok		
+3136	new		
+3145	new		
+3164	new		
+32.2	new		
+3214	new		
+3226	new		
+3264	new		
+3274	new		
+3291	new		
+3295	new		
+32D Myeloid	new		
+3332	new		
+3335	new		
+3363	new		
+3367	new		
+3381	new		
+3388	new		
+3438	new		
+3463	new		
+3545	new		
+3565	new		
+3570	new		
+3617-KOGR	new		
+3655	new		
+3665	new		
+3679	new		
+3688	new		
+372	new		
+3752	new		
+38.1	new		
+380	new		
+38B9	ok		
+3C10	ok		
+3T3	new		
+3T3-L1	ok		3T3L1
+3T3F442A	new		
+3T9	new		
+402-91	new		
+416B	ok		
+451Lu	ok		
+455	new		
+46C	ok		
+4T1	new		
+5.3S	ok		
+501-Mel	ok		501Mel
+514	new		
+528	new		
+548	new		
+5637	ok		
+579	new		
+591	new		
+601	new		
+633	new		
+6540 cells	ok		6540cells
+688M	new		
+697	ok		
+70Z/3	ok		70Z3
+7250	ok		
+7298-2	ok		72982
+7438	ok		
+748T	ok		
+751-NA-15	new		
+76NF2V	new		
+786-0	ok		7860
+786-M1A	new		
+786-O	ok		786O
+8.03	new		
+8946	ok		
+8988t	ok		
+9.4	new		
+90-8TL	ok		908TL
+911	new		
+92-2	new		
+961C	ok		
+97L	new		
+A-172	ok		A172
+A-498	new		
+A17Lox	new		
+A1847	new		
+A20	ok		
+A2780	ok		
+A2B5+ iOPCs(H)	new		
+A3.01	ok		
+A375	ok		
+A498	new		
+A549	ok		
+A673	ok		
+A9 [Mouse hybridoma]	new		
+AB32	ok		
+AC16	ok		
+ACC112	ok		
+ACH2	ok		
+ACHN	ok		
+AG04449	ok		
+AG04450	ok		
+AG08470	ok		
+AG09309	ok		
+AG09319	ok		
+AG10803	ok		
+AG18359	ok		
+AGS	ok		
+ALL-SIL	ok		SIL-ALL|ALLSIL
+AML12	new		
+ARP-1	new		
+AT-3	ok		AT3
+ATCC CRL-4003	new		
+ATL-2	new		
+AU565	new		
+Abl1/S1Cs-A5	ok		Abl1S1CsA5
+Ainv15	ok		
+Akata	ok		
+AmacFibr_F_N-fG140.02	new		
+Amac_I_N-rG79.04	new		
+Amac_M_Y-30.02	new		
+American Type Culture Collection (Catalog Number: PCS-201-012)	new		
+AoSMC	ok		
+AsPC-1	new		
+Aska	new		
+AtT-20	ok		AtT20
+B1 NIH	new		
+B16-BL6	new		
+B16-F10	new		
+B3	ok		
+B6.2	new		
+BC-3	new		
+BCBL1	ok		BCBL-1
+BCL1	ok		
+BE2-C	ok		BE(2)_C|BE2C|BE2
+BEAS-2B	ok		BEAS2B
+BEC	ok		
+BG01	ok		
+BG01V - ATCC SCRC-2002	new		
+BG03	ok		
+BGC823	ok		
+BHY	new		
+BICR16	new		
+BICR31	new		
+BICR6	new		
+BIN-67	new		
+BIV1	ok		
+BJ	ok		
+BJ-tert	ok		BJtert
+BJAB	ok		
+BJEL	ok		
+BJELM	ok		
+BL-2	new		
+BL-41	ok		BL41
+BLM	ok		
+BMiFLT3(15-3)	ok		BMiFLT3(153
+BNL-CL.2	ok		BNLCL.2
+BT-142	ok		BT142
+BT-16	ok		BT16
+BT-20	ok		BT20
+BT-474	ok		BT474
+BT-549	ok		BT549
+BT168	ok		
+BV2	ok		
+BWTG3	new		
+Ba/F3	ok		BaF3
+BeWo	ok		
+Beko	ok		
+Bel-7402	new		
+BetaTC6	ok		
+BicR	ok		
+Bipo_I_N-rM0408	new		
+Bipo_I_Y-208.03	new		
+Bipo_I_Y-208.04	new		
+Bipo_I_Y-rM0401	new		
+Bipo_I_Y-rM0405	new		
+Breast Cancer Cells	new		
+Breast cancer cell line	new		
+Brx07	new		
+Brx42	new		
+Brx50	new		
+Brx68	new		
+C.M.L.	new		
+C10	ok		
+C127	new		
+C15	new		
+C17.2	ok		
+C2	ok		
+C20	new		
+C2C12	ok		
+C32 [Human melanoma]	new		
+C3H10T1/2	ok		C3H10T12
+C4-12	ok		C412
+C4-2	ok		C42
+C4-2B	ok		C42B
+C6	ok		
+C6-3	new		
+C6661	ok		C666-1
+C88 MEL	ok		C88MEL
+CA46	ok		
+CAD	ok		
+CADO-ES1	ok		CADOES1
+CAG	new		
+CAL-1	ok		CAL1
+CAL-51	new		
+CAL33	new		
+CAL51	new		
+CAL51-MCF7	ok		CAL51MCF7
+CAT(Wil)	new		
+CB660	new		
+CCE	ok		
+CCRF-CEM	ok		CCRFCEM
+CClp1	ok		
+CD-1	ok		CD1
+CD8-positive dendritic cell line	new		
+CEM	new		
+CEM/C1	ok		CEM-C1|CEMC1
+CFPAC-1	ok		CFPAC1
+CGR8	ok		
+CH12	ok		
+CHL-1	new		
+CHP-134	ok		CHP134
+CHP-212	new		
+CJ7	ok		
+CJM	ok		
+CL1207	ok		
+CLASSPB1	new		
+CLB-Ga	new		
+CLB-Pe	new		
+CM-10	ok		CM10
+CM-11	ok		CM11
+CM-12	ok		CM12
+CM-13	ok		CM13
+CM-14	ok		CM14
+CMK	ok		
+CMP-MN1-L	ok		CMPMN1L
+CMT1	ok		
+CMTi-1	ok		CMTi1
+COG-N-415	new		
+COG-N-440	new		
+COG-N-453	new		
+COGN415	new		
+COLO 205	ok		COLO205
+COLO 679	ok		COLO679
+COLO-320	ok		COLO 320|COLO-320|COLO320
+COLO-741	ok		COLO 741|COLO741
+COLO-829	ok		COLO 829|COLO829
+CP-A	ok		CPA
+CRC119	new		
+CRL7250 (fibroblast)	new		
+CT-4	new		
+CT36	new		
+CTCF-NRL-Rod_M_N-P21	new		
+CTR	ok		
+CTV-1	new		
+CUTLL1	ok		
+CW1914-2	new		
+CW2012	new		
+CW2080-2	new		
+CW738	new		
+CW789	new		
+CW839	new		
+CWR22Pc	ok		
+CWR22Rv1	new		
+CaSki	ok		
+Caco-2	ok		Caco2
+Caki-2	ok		Caki2
+Cal27	new		
+Calu-1	new		
+Calu-3	ok		Calu3
+Capan-1	ok		Capan1
+Capan-2	ok		Capan2
+Ch1	ok		
+Ch13	ok		
+Ch3	ok		
+Ch5	ok		
+Ch7	ok		
+Ch8	ok		
+ChTRT	new		
+Colo-205	new		
+Cone_I_N-rCh209.04	new		
+Cone_I_Y-209.11	new		
+Cone_I_Y-209.12	new		
+Cone_I_Y-209.13	new		
+Cone_M_N-rCh257.4	new		
+Cone_M_Y-257.03	new		
+Craig Venter-B (CVB) hiPSC line	new		
+Craig Venter-B (CVB) hiPSC subline	new		
+Craig Venter-I (CVI) hiPSC line	new		
+Craig Venter-I (CVI) hiPSC subline	new		
+Crispr edited HUDEP2 bulk	new		
+CyT49	ok		
+D-341	ok		D341
+D1 ORL UVA	new		
+D10.G4.1	ok		
+D283 Med	ok		D283|D283Med
+D3	ok		
+D425 Med	new		
+D458	new		
+DC1940	new		
+DFB	ok		
+DI102	new		
+DI28	new		
+DI36	new		
+DICERex5	ok		
+DIPG cell line	new		
+DIPG007	new		
+DIPG012	new		
+DIX18	new		
+DIX28	new		
+DKO	new		
+DKO1	ok		
+DL23	ok		
+DLD-1	ok		DLD1
+DMS53	new		
+DN2	new		
+DN3	new		
+DND-41	ok		DND41
+DOHH-2	ok		DOHH2
+DU-528	ok		DU.528|DU528
+DU145	ok		
+DUCaP	ok		
+Daoy	ok		
+Definitive Endoderm (ES derived)	new		
+Delta47	ok		
+Detroit 562	new		
+Detroit562	new		
+Do-11-10	ok		Do1110
+Dombi23	new		
+E14	ok		
+E14Tg2A	ok		
+E36	ok		
+E4	new		
+E8.5	ok		
+EA.Hy926	new		
+EAC-T1	new		
+EAC-T10	new		
+EAC-T11	new		
+EAC-T2	new		
+EAC-T3	new		
+EAC-T4	new		
+EAC-T5	new		
+EAC-T6	new		
+EAC-T7	new		
+EAC-T8	new		
+EAC-T9	new		
+EB3	ok		
+EBC-1	ok		EBC1
+ECC-1	ok		ECC1
+EEC16	ok		
+EED -/-	new		
+EJ	ok		
+EKOiE	ok		
+EL	ok		
+EL-4	ok		EL4
+EM-3	new		
+EML	ok		
+ENSA	new		
+EOL1	new		
+EP156T	ok		
+EPT1	ok		
+ERMYB	ok		
+ES-C57BL/6	new		
+ES-CJ7	ok		ESCJ7
+ES3	ok		
+EU-1	new		
+EU-4	new		
+EU-5	new		
+EU-6	new		
+EWS502	ok		
+Edom-iPS-2	new		
+Elf1	ok		
+EndoC-BH1 human pancreatic beta cell line	new		
+EpH4	new		
+EpRas	ok		
+EpiSC9	ok		
+Eso26	new		
+Esrrb-2a-GFPd-IBIH	new		
+F1-2.1	new		
+F1216	ok		
+F129	new		
+F4/B8	new		
+F5	ok		
+F9	ok		
+FB0167P	ok		
+FB8470	ok		
+FDC-P1	ok		FDCP1
+FDCPmix	ok		
+FH-Foxd3	ok		FHFoxd3
+FLP143HA	ok		
+FLP76	ok		
+FSD1/F4	new		
+FT194	ok		
+FT246	ok		
+FT33	ok		
+FU97	ok		
+FW3-218-1	new		
+FW3-47	new		
+FaDu	new		
+Farage	ok		
+Fibroblast line 1 (CL1500023)	new		
+Fibroblast line 2 (CL1500024)	new		
+Flo-1	new		
+Foxa2 knock-in/knock-out (Foxa2-Venus) KO mouse ES cell line	new		
+Foxa2 knock-in/knock-out (Foxa2-Venus) control mouse ES cell line	new		
+G-361	new		
+G-401	ok		G401
+G1297	new		
+G1E	ok		
+G1E-ER4	ok		G1E-ER4+E2|G1EER4
+G1ER	ok		
+G1ME	ok		
+G4	new		
+G4A2	ok		
+GBM1A	ok		
+GBM1B	ok		
+GC-1 spg	new		
+GCB	ok		
+GHFT1	ok		GHFT1-5
+GI-CA-N	new		
+GI-ME-N	new		
+GIST-48B	new		
+GIST-T1	new		
+GIST48	ok		
+GIST882	new		
+GLC-16	ok		GLC16
+GM00011	ok		
+GM00739	new		
+GM01660	ok		
+GM02063	new		
+GM02171	new		
+GM02185	new		
+GM02456	ok		
+GM03164	new		
+GM04025	new		
+GM04503	ok		
+GM04504	ok		
+GM06170	ok		
+GM06990	ok		
+GM06993, GM07000, GM11882, GM11992, GM12763, GM12872	ok		GM06993,GM07000,GM11882,GM11992,GM12763,GM12872
+GM06993, GM11992	ok		GM06993,GM11992
+GM06993, GM12872	ok		GM06993,GM12872
+GM07000, GM11882	ok		GM07000,GM11882
+GM08714	ok		
+GM09027A	new		
+GM09236	new		
+GM09237	new		
+GM10248	ok		
+GM10266	ok		
+GM10847	ok		
+GM10855	ok		
+GM10861	ok		
+GM11992, GM12763	ok		GM11992,GM12763
+GM11994	ok		
+GM12801	ok		
+GM12864	ok		
+GM12865	ok		
+GM12866	ok		
+GM12867	ok		
+GM12868	ok		
+GM12869	ok		
+GM12870	ok		
+GM12871	ok		
+GM12872	ok		
+GM12873	ok		
+GM12874	ok		
+GM12875	ok		
+GM12877	new		
+GM12878	ok		
+GM12879	new		
+GM12880	new		
+GM12881	new		
+GM12882	new		
+GM12883	new		
+GM12884	new		
+GM12885	new		
+GM12886	new		
+GM12887	new		
+GM12888	new		
+GM12889	new		
+GM12890	ok		
+GM12891	ok		
+GM12892	ok		
+GM12893	new		
+GM13976	ok		
+GM13977	ok		
+GM15510	ok		
+GM17212	new		
+GM17942	new		
+GM18486	ok		
+GM18498	ok		
+GM18499	ok		
+GM18501	ok		
+GM18502	ok		
+GM18504	ok		
+GM18505	ok		
+GM18507	ok		
+GM18508	ok		
+GM18510	ok		
+GM18511	ok		
+GM18516	ok		
+GM18517	ok		
+GM18519	ok		
+GM18520	ok		
+GM18522	ok		
+GM18526	ok		
+GM18852	ok		
+GM18853	ok		
+GM18855	ok		
+GM18856	ok		
+GM18858	ok		
+GM18859	ok		
+GM18861	ok		
+GM18862	ok		
+GM18870	ok		
+GM18907	ok		
+GM18909	ok		
+GM18912	ok		
+GM18913	ok		
+GM18916	ok		
+GM18951	ok		
+GM19092	ok		
+GM19093	ok		
+GM19098	ok		
+GM19099	ok		
+GM19101	ok		
+GM19114	ok		
+GM19116	ok		
+GM19119	ok		
+GM19127	ok		
+GM19130	ok		
+GM19131	ok		
+GM19137	ok		
+GM19138	ok		
+GM19140	ok		
+GM19141	ok		
+GM19143	ok		
+GM19144	ok		
+GM19147	ok		
+GM19152	ok		
+GM19153	ok		
+GM19159	ok		
+GM19160	ok		
+GM19171	ok		
+GM19190	ok		
+GM19192	ok		
+GM19193	ok		
+GM19200	ok		
+GM19201	ok		
+GM19203	ok		
+GM19204	ok		
+GM19206	ok		
+GM19207	ok		
+GM19209	ok		
+GM19210	ok		
+GM19222	ok		
+GM19223	ok		
+GM19225	ok		
+GM19238	ok		
+GM19239	ok		
+GM19240	ok		
+GM19257	ok		
+GM20000	ok		
+GM20390	new		
+GM22268	new		
+GM2255	ok		
+GM22647	new		
+GM22648	new		
+GM22649	new		
+GM22650	new		
+GM22651	new		
+GM23338	ok		
+GM2555	ok		
+GM2588	ok		
+GM2610	ok		
+GM2630	ok		
+GMA24A1F	new		
+GP5d	ok		
+GRANTA-519	ok		GRANTA519
+GRM6-Bipo_M_N	new		
+GSC119	ok		
+GSC23	new		
+GSC4	ok		
+GSC6	ok		
+GSU	new		
+Gen2.2	ok		
+GihTRT	new		
+H1	ok		
+H1112	new		
+H128	ok		
+H1299	ok		
+H1703	new		
+H18489	new		
+H18511	new		
+H19098	new		
+H19101	new		
+H1975	new		
+H2009	ok		
+H20682	new		
+H209	new		
+H20961	new		
+H21194	new		
+H2171	ok		
+H21792	new		
+H23	new		
+H28126	new		
+H28815	new		
+H295R	ok		
+H3.1	new		
+H3122	new		
+H3396	ok		
+H345	ok		
+H358	ok		
+H4	ok		
+H460	new		
+H460 cells	new		
+H5.46	new		
+H54	ok		
+H69	new		
+H69AR	new		
+H7	ok		
+H838	new		
+H9	ok		
+H929	ok		
+HA-h	ok		HAh
+HA-sp	ok		HAsp
+HAP-1	ok		HAP1
+HARA	new		
+HBG3	ok		
+HBL1	ok		
+HBL_1	new		
+HBPALL	ok		
+HCC cell line	new		
+HCC1143	new		
+HCC1395	ok		
+HCC1428 	ok		HCC1428
+HCC1599	new		
+HCC1806	ok		
+HCC1937	new		
+HCC1954	ok		
+HCC2157	ok		
+HCC2279	new		
+HCC2450	new		
+HCC2814	new		
+HCC3153	new		
+HCC4018	ok		
+HCC70	ok		
+HCC827	ok		
+HCC95	ok		
+HCCLM3	new		
+HCE-T	ok		HCET
+HCT-116	ok		HCT116
+HCT-15	ok		HCT15
+HDFa	new		
+HEK	new		
+HEK293	ok		
+HEK293A	ok		
+HEK293FT	ok		
+HEK293T	ok		
+HEPM	new		
+HES-3	ok		HES3
+HEYA8	new		
+HFE145	ok		
+HFF	ok		
+HFF1	new		
+HFNSCFB	new		
+HFNSCHINDB	new		
+HG-3	new		
+HGADFN167	ok		
+HGEP	new		
+HGF	ok		
+HGFDFN168	ok		
+HIOEC	new		
+HK-2 [Human kidney]	new		
+HK1	new		
+HKC8	ok		
+HL-1	ok		HL1
+HL-60	ok		HL60
+HL7702	new		
+HMC-L	ok		HMCL
+HMC-LT	ok		HMCLT
+HMC-LTR	ok		HMCLTR
+HMC-P6	ok		HMCP6
+HMEC-hTERT	new		
+HMLE	new		
+HMLER	ok		
+HNE1	new		
+HNSCC cell line FaDu	new		
+HOBIT	ok		
+HOS	new		
+HPAF-II	ok		HPAFII
+HPB-ALL	ok		HPBALL
+HPC-7	ok		HPC7|HPC 7
+HPDE6-E6E7	ok		Hpde6e6e7|HPDE6E6E7
+HRE	ok		
+HS-ES-2M	new		
+HS-SY-2	new		
+HS27a	ok		
+HS578T	ok		
+HS895T	new		
+HSB2	new		
+HSC4	new		
+HSJD001	new		
+HSJD007	new		
+HSJD012	new		
+HSSY2 (SS)	new		
+HSSYII	new		
+HT-3	new		
+HT1080	ok		
+HT22	new		
+HT29	ok		HT-29
+HUDEP-2	new		
+HUDEP2 cells	new		
+HUES48	ok		
+HUES6	ok		
+HUES64	ok		
+HUES8 hESCs	new		
+HUG1N	ok		
+HUTU80	new		
+HUVEC	new		
+HaCaT	ok		
+HeLa	ok		
+HeLa-S3	ok		HeLaS3
+Hec1A	new		
+Hep-64.1	new		
+Hep3B	new		
+HepG2	ok		
+Hepa 1-6	ok		Hepa16
+Hepa-1c1c7	new		
+Hipe	ok		
+Hoxb8-FL	new		
+Hrpe	ok		
+Hs68	ok		
+Htr8	ok		
+Hu09	new		
+Hu5/E18	new		
+HuCCT1	ok		
+HuRef	ok		
+Huh7	ok		HuH7|Huh-7
+Huh75	ok		
+Human pulmonary artery endothelial cells (HPAECs)	new		
+Hybridoma 231	new		
+I 3	new		
+IB4	ok		
+ID00014	new		
+ID00015	new		
+ID00016	new		
+IDG-SW3	ok		IDGSW3
+IGEL a2	ok		IGELa2
+IGR-N-835	new		
+ILC87	ok	T cell tumor cell line 	
+IM95	ok		
+IMCD3	ok		
+IMEC	ok		
+IMR-32	new		
+IMR-5	new		
+IMR-5/75	ok		IMR575
+IMR90	ok		IMR-90
+IMR90hTert	ok		
+IMS13q	ok		
+IOE11	ok		
+IOE4	ok		
+IPSC-derived Hematopoietic Progenitor Cells (transduced with lentivirus)	new		
+Ishikawa	ok		
+J-Lat A72	new		
+J1	ok		
+J2E	new		
+JH-EsoAd1	new		
+JHC7	new		
+JHU-011	new		
+JHU-019	new		
+JHU-029	ok		JHU029
+JHU-06	new		
+JHUEM-14	new		
+JJN-3	ok		JJN3
+JM8.N4	ok		
+JMSU-1	new		
+JON	new		
+JURL_MK1	ok		
+Jurkat	ok		
+Jurkat E6-1	ok		JurkatE61
+K1106	ok		
+K562	ok		K-562
+KARPAS-422	ok		KARPAS422
+KAT-7	new		
+KATO III	ok		KATO3|KATOIII|KATO-III
+KB Cell	new		
+KBM-7	ok		KBM7
+KD [Human lip fibroblast]	new		
+KELLY	ok		
+KG-1	new		
+KG1	ok		
+KG1a	ok		
+KH2	ok		
+KK1	new		
+KLC	new		
+KMS11	ok		KMS-11
+KMS12	ok		
+KMS12BM	new		
+KMS12PE	new		
+KMS18	new		
+KMS20	new		
+KMS21BM	new		
+KMS26	new		
+KMS27	new		
+KMS28	new		
+KMS28BM	new		
+KMS28PE	new		
+KMS34	new		
+KNS62	new		
+KOPN-8	ok		KOPN8
+KOPT-K1	ok		KOPTK1
+KP1	ok		
+KP22	ok		
+KPC4	new		
+KPC9	new		
+KPL	new		
+KPsh	new		
+KSIC_806	new		
+KURAMOCHI	ok		
+KYAE1	new		
+KYSE-150	ok		KYSE150
+KYSE-510	ok		KYSE510
+KYSE-70	ok		KYSE70
+Karpas620	new		
+Kasumi-1	ok		Kasumi1
+Kasumi-3	ok		Kasumi3
+KerCT	new		
+Kera-308	new		
+KhES-1	ok		KhES1
+L 101	ok		L101
+L-C-B	new		
+L1236	ok		
+L3.6	ok		
+L363	new		
+L428	ok		
+L428-PAX5	ok		L428PAX5
+L591	ok		
+L8057	ok		
+LA-N-5	new		
+LAL-B  (ALL-B patient-derived cell line)	new		
+LAN-1	ok		LA-N-1
+LAN5	new		
+LAN6	ok		
+LAPC4	new		
+LC-1/SQSF	new		
+LCL	ok		
+LF2	ok		
+LHCN-M2	ok		LHCNM2
+LHSAR	ok		
+LIS2	ok		
+LK2	new		
+LM3	new		
+LM7	new		
+LN229	ok		
+LN95	new		
+LNAR'	new		
+LNCaP	ok		
+LNCaP-abl 	ok		LNCaP-ABL|LNCaPabl
+LOUCY	ok		
+LOX-IMVI	ok		LOX IMVI|LOXIMVI
+LP-1	ok		LP1
+LR14	new		
+LREX'	ok		
+LRSKBr3	ok		Lapatinib-resistant SKBr3
+LS174T	ok		
+LS180	ok		
+LS8817	new		
+LSC	ok		
+LTED	ok		
+LUHMES	new		
+LX2	ok		
+LXXVIII-2E5-A8	new		
+LY1	ok		
+LY2	ok		
+LoVo	ok		
+Lonza CC-2511	ok		LonzaCC2511
+Lu130	new		
+LuCaP	ok		
+Lund human mesencephalic cells (LUHMES)	new		
+M.M.	new		
+M.R.	new		
+M0-91	ok		M091
+M059J	ok		
+M1	new		
+M112	new		
+M12	ok		
+M23F	ok		
+M5076	new		
+MALME3	new		
+MAST	ok		
+MB157	new		
+MB231	new		
+MB361	new		
+MB4	ok		
+MB436	new		
+MB468	new		
+MC3	ok		
+MC3T3	ok		
+MC3T3-E1	ok		MC3T3E1
+MC57G	new		
+MCF-10A	ok		MCF10A
+MCF-7	ok		MCF7
+MCF-7aro Let-R	ok		Let-R|MCF7aroLetR
+MCF10CA1a	ok		
+MCF10DCIS.com	new		
+MCF7-LTED	ok		MCF7LTED
+MCFDCIS	ok		
+MCV6	ok		
+MCV8	ok		
+MCV8.1	ok		
+MD-901	ok		MD901
+MD6	ok		
+MDA-183	new		
+MDA-231	ok		MDA231
+MDA-584	new		
+MDA-MB-134	ok		MDAMB134
+MDA-MB-157	new		
+MDA-MB-175VII	ok		MDAMB175VII
+MDA-MB-231	ok		MDAMB231
+MDA-MB-436	ok		MDA463|MDAMB436
+MDA-MB-453	ok		MDA-MB453|MDAMB453
+MDA-MB-468	ok		MDAMB468
+MDA-MD-231	ok		MDAMD231
+MDA-PCa2b	new		
+MDAH087	ok		
+MDA_MB_231	new		
+ME-1	ok		ME1
+ME-180	new		
+MEF	new		
+MEF-1	ok		MEF1
+MEFs	ok		
+MEL	ok		
+MEL270	new		
+MEL86	ok		
+MES20	new		
+MES28	new		
+MESMN1	new		
+MG-63	ok		MG63
+MG3	ok		
+MG6	ok		
+MGC-803	ok		MGC803
+MGG23	ok		
+MGG4	ok		
+MGG6	ok		
+MGG8	ok		
+MGH-U4	new		
+MHH-MED-1	ok		MHHMED1
+MIA PaCa-2	ok		MIAPaCa2
+MIN	new		
+MIN6	ok		
+MIN6B1	ok		
+MK1	ok		
+MK2	ok		
+MKL-1	new		
+MKN1	ok		
+MKN28	ok		
+MKN45	ok		
+MKN7	ok		MKN-7
+ML-2	ok		ML2
+MLL-AF9	new		
+MM.1S	ok		
+MM029	new		
+MM032	new		
+MM1	new		
+MM1.RL	ok		
+MM1.S	ok		
+MM1S	ok		
+MM6	new		
+MMTV-Myc	ok		MMTVMyc
+MMU	new		
+MN1	ok		
+MNC491	ok		
+MNC492	ok		
+MNNG	new		
+MO1043	ok		
+MOLM-13	ok		MOLM13
+MOLM-14	ok		Molm14|MOLM14
+MOLT-16	new		
+MOLT-3	ok		MOLT3
+MOLT-4	ok		MOLT4
+MOLT16	new		
+MPI-II	ok		MPIII
+MR4	ok		
+MRC-iPS-26	new		
+MRC-iPS-4	new		
+MRC-iPS-98	new		
+MRC-iPS-99	new		
+MRC5	ok		MRC-5
+MS1	ok		
+MS12	ok		
+MS4221	ok		
+MSTO	new		
+MUG-Chor1	new		
+MUGCHOR	ok		
+MUTZ-3	ok		MUTZ3
+MV4-11	ok		MV411|MV-4-11
+MV4-11R	ok		MV411R
+MV4:11	new		
+MV4;11	ok		
+Mac-1	new		
+Mbd3f/- cell line	new		
+MelJuSo	ok		
+Melan-a	ok		Melana
+Mixture	new		
+MonoMac6	ok		
+Monocd14	ok		
+MotL	ok		
+Mouse embryonic stem cells	new		
+Mtf2 GT/GT	new		
+MullFibr_F_N-FCR01	new		
+MullFibr_F_N-FCR02	new		
+Mull_M_N-rCr143.02	new		
+Mull_M_N-rCr263.4	new		
+Mull_M_N-rCr33.05	new		
+Mull_M_Y-263.08	new		
+Mull_M_Y-Cr143.01	new		
+Mull_M_Y-rCr33.01	new		
+Mull_M_Y-rCr33.04	new		
+Mutu III	ok		MutuIII
+MutuI	ok		
+Mutz3	new		
+Myometr	ok		
+N2A	ok		
+N87	new		
+NALM-6	new		
+NB-1	new		
+NB-1643	ok		NB1643
+NB-4	new		
+NB-69	new		
+NB4	ok		
+NB490	new		
+NB69	new		
+NBL-S	new		
+NCC-59	ok		NCC59
+NCCIT	ok		
+NCHA1	ok		
+NCHA2	ok		
+NCI-0075	ok		NCI 0075|NCI0075
+NCI-0082	ok		NCI 0082|NCI0082
+NCI-1703	ok		NCI1703
+NCI-H1184	ok		NCIH1184
+NCI-H128	ok		NCIH128
+NCI-H1512	ok		NCIH1512
+NCI-H1755	ok		NCIH1755
+NCI-H1819	ok		NCIH1819
+NCI-H1993	ok		NCIH1993
+NCI-H2052	ok		NCIH2052
+NCI-H2087	ok		H2087|NCIH2087
+NCI-H2107	ok		H2107|H-2107|NCIH2107
+NCI-H226	new		
+NCI-H2347	ok		NCIH2347
+NCI-H2887	new		
+NCI-H3122	ok		NCIH3122
+NCI-H441	ok		NCIH441
+NCI-H460	ok		NCIH460
+NCI-H520	new		
+NCI-H524	ok		H524|NCIH524
+NCI-H526	ok		NCIH526
+NCI-H660	ok		NCIH660
+NCI-H69	ok		NCIH69
+NCI-H82	ok		H82|NCIH82
+NCI-H838	ok		NCIH838
+NCI-H889	ok		H889|NCIH889
+NCIH810	new		
+ND-1	new		
+NDS-758	new		
+NGEJ	new		
+NGP	ok		
+NHBE_RA	ok		
+NHDF-Ad	ok		NHDFAd
+NHDF-neo	ok		NHDFneo
+NHEK	ok		
+NHLF	ok		
+NHU	ok		
+NIH-3T3	ok		NIH 3T3|NIH3T3
+NIH:OVCAR-3	ok		OVCAR3|NIH:OVCAR3
+NJH29	ok		
+NM176	new		
+NM177	new		
+NM53	new		
+NMuMG	ok		
+NOMO-1	ok		NOMO1
+NPMc+ leukemia OCI-AML3 cells	new		
+NRL-Rod_M_N-P21	new		
+NRL-Rod_M_N-P6	new		
+NS129	ok		
+NS134	ok		
+NSC11	new		
+NSC194	new		
+NT2-D1	ok		NT2D1|NT2/D1
+NTERA-2	ok		NTERA2
+NTKO	ok		
+Nalm6	ok		
+Namalwa	ok		
+Neuro-2a	ok		Neuro2a
+OACM5.1	new		
+OACp4C	new		
+OCI-AML3	new		
+OCI-Ly1	ok		OCILy1
+OCI-Ly10	ok		OCILy10
+OCI-Ly19	ok		OCILy19
+OCI-Ly2	ok		OCILy2
+OCI-Ly3	ok		OCILy3
+OCI-Ly4	ok		OCILy4
+OCI-Ly7	ok		OCILy7
+OCI-Ly8	ok		OCILy8
+OCIMY5	new		
+OCUM-1	ok		OCUM1
+OE19	new		
+OE33	new		
+OECM1	ok		
+OF4155	ok		
+OPM2	new		
+OS-LM1	new		
+OS25	ok		
+OVCA429	ok		
+OVCAR3	ok		OVCAR-3
+OVCAR5	new		
+Osteosarcoma Cell Line SJSA	new		
+Ovcar8	ok		
+P-1	new		
+P12-ICHIKAWA	ok		P12ICHIKAWA
+P19	ok		
+P19.6	ok		
+P19CL6	ok		
+P388/NVB-2.5	new		
+P3HR-1	new		
+P493	ok		
+P493-6	ok		P4936
+P4D7C2(XistDelXR-PID)	new		
+P4D7F4(FLXist)	new		
+P5424	ok		
+P6D4	ok		
+PANC-1	ok		PANC1
+PAR	new		
+PBDE	ok		
+PC-3	ok		PC3
+PC-3M	new		
+PC-3M-luc	ok		PC3Mluc
+PC-9	ok		PC9
+PC9R	new		
+PCM6	new		
+PDB1lox-17/puro-5	ok		PDB1lox17puro5
+PDB1lox-21/puro-26	ok		PDB1lox21puro26
+PDB2lox-17	ok		PDB2lox17
+PDB2lox-21	ok		PDB2lox21
+PDNC4	ok		
+PE1	new		
+PEER	ok		
+PEO1	ok		
+PER-403	ok		PER403
+PF382	ok		PF-382
+PFSK-1	ok		PFSK1
+PH [Human]	new		
+PNMNK1	new		
+PNT1a	new		
+POP92	new		
+PSA1-NG2	new		
+PT45-P1	ok		PT45P1
+PYS-2/12	new		
+PYS-2/3	new		
+PaTu8988S	ok		
+PanIsletD	ok		
+Patient-derived melanoma cell line M229	new		
+Patient-derived melanoma cell line M233	new		
+Patient-derived melanoma cell line M249	new		
+Patient-derived melanoma cell line M262	new		
+Patient-derived melanoma cell line M263	new		
+Patient-derived melanoma cell line M381	new		
+Patient-derived melanoma cell line M397	new		
+Patski	ok		
+Pfeiffer	ok		
+PluriStem 129S6	new		
+PrEC	ok		
+Primary mammary epithelial cells	new		
+ProgFib	ok		
+Py2T	ok		
+R1	ok		
+R1-AD1	ok		R1AD1
+R1-D567	ok		R1D567
+R26M2rtTA/+;TetOcre;Sdhcfl/fl	new		
+R26M2rtTA/+;TetOcre;Sdhcfl/wt	new		
+RCH-ACV	ok		RCHACV
+RD	ok		
+RERF-GC-1B	ok		RERFGC1B
+RH3	new		
+RH30	new		
+RH41	new		
+RH5	ok		
+RKI	new		
+RKO	ok		
+RL	new		
+RL95-2	ok		RL952
+RMG-1	new		
+RMG-I	new		
+RMG1	new		
+RMS008	ok		
+RMS206	ok		
+RMS209	ok		
+RMS216	ok		
+RMS237	ok		
+RMS238	ok		
+RN2	ok		
+RPM-MC	new		
+RPMI-7951	ok		RPMI7951
+RPMI-8226	new		
+RPMI-8402	ok		RPMI8402
+RPMI8226	new		
+RPTEC	ok		
+RS4	ok		
+RT-4	new		
+RT112	ok		
+RUES2	new		
+RWPE1	ok		
+Raji	ok		
+Ramos	ok		
+Raw 264.7	ok		RAW264.7|Raw264.7
+ReN-VM	ok		ReNVM
+Rec-1	new		
+Reh	ok		
+Rh18	ok		
+Rh4	ok		
+Rj2.2.5	ok		
+RodFibr_F_Y-FNR07	new		
+Rod_I_Y-8602	new		
+S194	ok		
+S4 [Mouse hybridoma]	new		
+SA121	ok		
+SAEC	ok		
+SAH	new		
+SCC-4	new		
+SCC25	new		
+SCC9	new		
+SCCOHT-1	new		
+SCLC-24H	new		
+SCMC	ok		
+SCOS-2	ok		SCOS#2|SCOS2|SCOS 2
+SEES-3	ok		SEES3
+SEM	ok		
+SET-2	new		
+SET2	ok		
+SF268	ok		
+SF7761	ok		
+SF8628	ok		
+SGBS	ok		
+SGC7901	new		
+SH(15M)	new		
+SH-EP	new		
+SH-EP-NMYCER	new		
+SH-SY5Y	ok		SHSY5Y
+SHEP-21N	ok		SHEP21N
+SIRT6.2-7	new		
+SJCRH30	ok		
+SJNB-1	new		
+SJNB-12	new		
+SJNB-3	new		
+SJNB-6	new		
+SJNB-8	new		
+SJSA-1	ok		SJSA1
+SK-CO-1	new		
+SK-MEL-28	new		
+SK-N-AS	ok		SKNAS
+SK-N-BE(2)-C	ok		SKNBE(2)C
+SK-N-BE(2)c	new		
+SK-N-DZ	ok		SKNDZ
+SK-N-FI	new		
+SK-N-MC	ok		SKNMC
+SK-N-SH	ok		SKNSH
+SK-N-SH_RA	ok		SKNSH_RA
+SK-OV-3	ok		SKOV-3|SKOV3
+SK-UT-1	new		
+SKBR-3	ok		SKBr3|SKBR3
+SKGT4	new		
+SKH1	new		
+SKMC	ok		
+SKMEL2	ok		
+SKMEL30	ok		
+SKMEL5	ok		SK-MEL-5
+SKN-3	new		
+SKNO-1	ok		SKNO1
+SKmel147	ok		
+SKmel239	new		
+SLE005	new		
+SM [Human B-cell]	new		
+SMMC-7721	ok		SMMC7721
+SNU-16	ok		SNU16
+SNU-1750	ok		SNU1750
+SNU016	ok		
+SNU175	ok		
+SNU216	ok		
+SNU638	ok		
+SNU719	ok		
+SQ-1	new		
+ST1	new		
+STHdh Q7/Q7	ok		STHdhQ7Q7
+STHdhQ111	ok		
+SU-DHL10	ok		SUDHL10
+SU-DHL2	ok		SUDHL2
+SU-DHL4	ok		SUDHL4
+SU-DHL5	ok		SUDHL5
+SU-DHL6	ok		SUDHL6
+SUIT-2	new		
+SUM1315MO2	ok		SUM1315
+SUM149	ok		
+SUM149R	ok		
+SUM159-MDA453	ok		SUM159MDA453
+SUM159PT	ok		SUM159|SUM-159
+SUM159R	ok		
+SUM185PE	ok		SUM185
+SUM229	ok		
+SUM44	new		
+SUP-B15	ok		SUPB15
+SW1116	new		
+SW1271	new		
+SW1353	ok		
+SW1783	new		
+SW48	new		
+SW480	ok		
+SW620	ok		
+SYO1	new		
+SaOS	new		
+Saos-2	ok		SAOS2|Saos2
+Shef 4	ok		Shef4
+SiHa	new		
+Sup-M2-TS	new		
+Swiss-3T3	ok		Swiss3T3
+T-289	new		
+T-84	new		
+T.T	new		
+T/C28a2	ok		T/C 28a2|TC28a2
+T23	new		
+T24	ok		
+T29	ok		
+T3M-1	ok		T3M1
+T47D	ok		T-47D
+T47D-MTVL	ok		T47DMTVL
+T6E	ok		
+T778	ok		
+T98G	ok		
+TALL-1	new		
+TAM_R	ok		TAMR
+TC-32 cells	new		
+TC-71 cells	new		
+TC-797	ok		TC797
+TC1	ok		
+TCam-2	ok		TCam2
+TE-7	ok		TE7
+TE10	new		
+TE6	new		
+TEX	ok		
+TF-1	ok		TF1
+THP-1	ok		THP1
+TIG-1	ok		TIG1
+TIG-3	ok		TIG3
+TIME	new		
+TIVE-LTC	ok		TIVELTC
+TKO	ok		
+TKO2	ok		
+TL-Om1	new		
+TMD8	ok		
+TNGA	ok		
+TOT2	ok		
+TOV-21G	new		
+TR14	new		
+TREx-(F3H3)-K-Rta BCBL-1 cells	new		
+TS-Rs26	new		
+TS/A clone F1	new		
+TSC	ok		
+TSU-1621-MT	ok		TSU1621MT
+TT	ok		
+TT2	ok		
+TTC-549	ok		TTC549
+TTC1240	new		
+TX1072	new		
+TXY	new		
+Tg2a	new		
+Toledo	ok		
+U-251MG	new		
+U-2932	ok		U2932|U 2932
+U-937	new		
+U20S AsiSI	new		
+U251	new		
+U266B1	ok		U266
+U2OS	ok		
+U87	ok		
+U87MG	ok		
+U937	ok		
+UACC-257	ok		UACC257
+UACC-812 C-MYC overexpression cell line	new		
+UACC-812 flag cell line	new		
+UACC62	new		
+UACC812	new		
+UCH2	ok		
+UCLA 1	new		
+UCSF-4* 	ok		UCSF4*
+UKE-1	ok		UKE1
+UM-Chor1	new		
+UM-SCC-4	ok		UMSCC4
+UM-SCC-47	ok		UMSCC47
+UM-SCC-74A	ok		UMSCC74A
+UO31	new		
+UOCB1	new		
+UPR9	ok		
+U_H01	new		
+Urinary Bladder	new		
+UrotsaUt189	ok		
+V1009	ok		
+V1024	ok		
+V1051	ok		
+V1058	ok		
+V1074	ok		
+V1106	ok		
+V206	ok		
+V389	ok		
+V410	ok		
+V411	ok		
+V429	ok		
+V432	ok		
+V456	ok		
+V457	ok		
+V481	ok		
+V5	ok		
+V576	ok		
+V6.5	ok		
+V703	ok		
+V784	ok		
+V8	ok		
+V852	ok		
+V855	ok		
+V866	ok		
+V940	ok		
+V968	ok		
+V9P	ok		
+VA13	ok		
+VACO 5	new		
+VACO 503	ok		VACO503|V503
+VACO 868	ok		VACO868|V868
+VAL-3	ok		VAL3
+VCS2	ok		
+VCaP	ok		
+Vl3-2m	new		
+WA-7	ok		WA7
+WA01	ok		
+WA09	ok		
+WERI-Rb-1	ok		WERIRb1
+WHIM12	ok		
+WI-38	ok		WI38
+WIBR1	ok		
+WIBR2	ok		
+WIBR3	ok		
+WIBR7	ok		
+WIS2	ok		
+WM115	ok		
+WM164	new		
+WM262	ok		
+WM266-4	ok		WM2664
+WM451-lu	ok		WM451lu
+WM853.2	ok		
+WM989	ok		
+WPMY1	ok		
+WS8	new		
+WSU-DLCL2	ok		WSUDLCL2
+WT hiPSC#1	new		
+WT26	ok		
+WW6	ok		
+Wehi-231	ok		Wehi231
+X18.1.1	ok		
+XG-6	new		
+XIII-3H6-A12	new		
+XT67E1	ok		
+Xenograft E2A-PBX	new		
+Xenograft MLL-AF4	new		
+Xenograft T-ALL	new		
+XistTetOP_delBC	new		
+YAC-1	ok		YAC1
+YB5	ok		
+YCC-21	ok		YCC21
+YCC-22	ok		YCC22
+YCC-7	ok		YCC7
+YCC3	ok		
+YD8	new		
+ZNF532-NUT 24335	new		
+ZR-75-1	ok		ZR751
+ZR-75-30	ok		ZR7530
+ZR75-1	new		
+ZhBTc4	ok		
+aTC1-9	ok		aTC19
+aTconv	ok		
+alpha-TN4	ok		alphaTN4
+alphaT3	new		
+alphaTC1	new		
+beta-TC-6 (ATCC CRL-11506)	new		
+breast triple negative tumor cell line BCSC1	new		
+c1 (B6NLxv1c2)	new		
+caki-1	ok		caki1
+double knock-in (DKI) mouse ES cell line carrying Foxa2-Venus and Sox17-Cherry gene fusions	new		
+doxycycline (Dox) inducible Foxa2-Venus ES cell line (T119)	new		
+doxycycline (Dox) inducible Foxa2-Venus ES cell line (T128)	new		
+doxycycline (Dox) inducible Foxa2-Venus, Gata4-tBFP ES cell line (T134)	new		
+hES I3	ok		hESI3
+hES-T3	new		
+hESC	new		
+hFOB	new		
+hMADS-3	ok		hMADS3
+hMSC-TERT4	new		
+hTERT-RPE1	ok		hTERTRPE1
+hTert-HME1	new		
+iBAd	new		
+iNeuron line 2 (derived from IPS1500024/293)	new		
+iPS 4	ok		iPS4
+iPS A1	ok		iPSA1
+iPS A6	ok		iPSA6
+iPS C1	ok		iPSC1
+iPS DF 19.11	ok		iPSDF19.11
+iPS DF 19.7	ok		iPSDF19.7
+iPS DF 4.7	ok		iPSDF4.7
+iPS DF 6.9	ok		iPSDF6.9
+iPS cells	new		
+iPS-11a	ok		iPS11a
+iPS-15b	ok		iPS15b
+iPS-18b	ok		iPS18b
+iPS-18c	ok		iPS18c
+iPS-20b	ok		iPS20b
+iPSC line 2 (IPS1500024/293, derived from CL1500024)	new		
+iPSC2	ok		
+iRunx1b::Damko	new		
+iSLK	new		
+iSLK-219	ok		iSLK219
+ipNF05.5 neurofibroma cell line	new		
+mAb 239	new		
+mAb 829	new		
+mAb 986.35	new		
+mE6	new		
+mESC	new		
+mEpiSC OEC2	new		
+mG/ER	ok		mGER
+mHypoE-N3	new		
+mHypoE-N6	new		
+mIMCD3	new		
+mK3	ok		
+mK4	ok		
+mPEC	ok		
+melan-Ink4a-Arf-null	ok		melanInk4aArfnull
+melanoma cell line B16-F12	new		
+mose active T cell	new		
+mpkCCD	ok		
+mpkDCT4a	new		
+neonatal cardiac fibroblast cell line expressing large T antigen	new		
+pEAK Rapid	new		
+pSKBr3	ok		parental SKBr3
+parental TOV21G cell line	new		
+peritoneal macrophage	new		
+resistant clone 3 TOV21G cell line (c3)	new		
+ventral prostatic tissues	new		
+vu1199-F SV40	new		
+vu1199-F SV41	new		
+vu1199-F SV42	new		
+vu1199-F SV43	new		

@@ -1,0 +1,76 @@
+1	CD4+ / CD8+	ok		
+2	CD34+	ok		
+3	CD15+	ok		
+4	CD4+	ok		
+5	Hae	ok		
+6	HAEC	ok		
+10	HConF	ok		
+11	Hcpe	ok		
+13	hSkM	ok		
+14	NH-A	ok		
+17	CD8+	ok		
+18	TETR	ok		
+19	CD43+	ok		
+21	PUER	ok		
+22	CD36+	ok		
+23	CD19+	ok		
+24	CD14+	ok		
+25	CD3+	ok		
+26	CD56+	ok		
+27	CD20+	ok		
+28	CD133+	ok		
+30	GFP, integrin alpha 6, ephrinB1	ok		
+31	Integrin Alpha 6 and CD34	ok		
+32	Ter119+	ok		
+33	CD24+	ok		
+34	CD44+	ok		
+35	CD10+	ok		
+37	ID2-HPC	ok		
+38	GMP	ok		
+39	NeuN-	ok		
+40	NeuN+	ok		
+41	EBF-/- pre-pro-B cell	ok		
+44	B220+ IgM- CD43- CD25+	ok		
+45	B220+ IgM- CD43+ CD25-	ok		
+46	BM-HPC	ok		
+47	pHTE	ok		
+49	HCPEpiC	ok		
+52	HSMM	ok		
+54	CD43-	ok		
+56	PBMC	ok		
+61	CD41-	ok		
+62	CD41+	ok		
+65	HBMEC	ok		
+67	RPTEC	ok		
+69	HFF	ok		
+70	HAc	ok		
+71	HVMF	ok		
+72	HPF	ok		
+73	HRPEpiC	ok		
+74	HPAF	ok		
+75	HEEpiC	ok		
+76	HMF	ok		
+77	HCM	ok		
+78	HCFaa	ok		
+79	HCF	ok		
+80	CD4-	ok		
+81	CD71+ / Ter119+	ok		
+82	Lin-SCA+CD34+	ok		
+83	Melanocyte Primary Cell	ok		
+86	Primary Cell (Lymph node and spleen)	ok		
+87	Primary Isolated AT2 Cell	ok		
+88	HMEC	ok		
+89	HRCEpiC	ok		
+90	AoAF	ok		
+91	HPdLF	ok		
+92	HIPEpiC	ok		
+93	HUVEC	ok		
+94	HAEpiC	ok		
+95	HMVEC	ok		
+97	HRGEC	ok		
+98	HNPCEpiC	ok		
+99	HPAEC	ok		
+100	HBVSMC	ok		
+101	HBVP	ok		
+102	c-Kit+	ok		
+103	DLK1+	ok		

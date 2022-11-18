@@ -1,0 +1,369 @@
+name	status	comment	aliases
+1st and 2nd pharyngeal arches	new		
+22Rv1 xenografts	new		
+3T3L1 cells	new		
+A549 cells and Hepa1-6 cells	new		
+ALL xenograft cells	new		
+AML12 cells	new		
+ARP1 myeloma cell line	new		
+Adherent HeLa cells	new		
+Adipose	ok		
+Adrenal Gland	ok		
+Alveoli	ok		
+Ammon's horn	new		
+Amnion	ok		
+Amniotic Membrane	ok		
+Angular Gyrus	ok		
+Aorta	ok		
+Artery	ok		
+Astrocytoma	new		
+Atria	ok		
+Atrioventricular junction (AVJ)	new		
+B-lymphocytes	new		
+BAT	new		
+Basal ganglia	new		
+Basal ganglia and septum	ok		
+Blastocyst	new		
+Blood	ok		PBMC
+Bone	ok		
+Bone Marrow	ok		
+Brain	ok		
+Brain Striatum	ok		
+Breast	ok		
+Bronchia	ok		
+C2C12 cells	new		
+CRC107 organoid	new		
+CRC121 organoid	new		
+CRL-1821 cell line	new		
+Caecum	ok		
+Caput Epididymis	ok		
+Cartilage	ok		
+Cerebellar	ok		
+Cerebellum	ok		
+Cerebrum	ok		
+Cervix	ok		
+Chronic Lymphocytic Leukemia (CLL) cell line	new		
+Cingulate Gyrus	ok		
+Clear cell renal cell carcinoma tumor	new		
+Colon	ok		
+Colon Crypt	ok		
+Colonic Mucosa	ok		
+Connective Tissue	ok		
+Cord blood	ok		
+Cornea	ok		
+Corneal Epithelium	ok		
+Coronary artery smooth muscle	ok		HCASMC
+Cranial	ok		
+Craniofacial Tissue	ok		
+Cultured cells	new		
+Duodenum	ok		
+Duodenum Mucosa	ok		
+E14.5 Liver	new		
+ES-derived progenitors	new		
+Ectoderm	ok		
+Embryo	ok		
+Embryo Forelimb Bud	ok		
+Embryo Trunk	ok		
+Embryonic Brain	ok		
+Embryonic Gonad	ok		
+Embryonic Heart	ok		
+Embryonic Hindlimb Bud	ok		
+Embryonic Kidney	ok		
+Embryonic Limb	ok		
+Embryonic Liver	ok		
+Embryonic Lung	ok		
+Embryonic Midbrain	ok		
+Embryonic Palate	new		
+Embryonic atrioventricular canal	ok		
+Embryonic flank	ok		
+Embryonic genital tubercle	ok		
+Embryonic testes	ok		
+Embryonic vertebral column	ok		
+Endoderm	ok		
+Endometrium	ok		
+Epididymal White Adipose Tissue	ok		
+Epididymis	ok		
+Esophagus	ok		
+Eye	ok		
+FFPE	new		
+Face	ok		
+Fallopian tube secretory	ok		
+Fetal Adrenal Gland	ok		
+Fetal Brain	ok		
+Fetal Heart	ok		
+Fetal Kidney	ok		
+Fetal Kidney Left	ok		
+Fetal Kidney Right	ok		
+Fetal Large Intestine	ok		
+Fetal Liver	ok		
+Fetal Lung	ok		
+Fetal Lung Left	ok		
+Fetal Lung Right	ok		
+Fetal Muscle Arm	ok		
+Fetal Muscle Back	ok		
+Fetal Muscle Leg	ok		
+Fetal Muscle Lower Limb	ok		
+Fetal Muscle Trunk	ok		
+Fetal Muscle Upper Trunk	ok		
+Fetal Ovary	ok		
+Fetal Placenta	ok		
+Fetal Renal Pelvis	ok		
+Fetal Renal Pelvis Left	ok		
+Fetal Renal Pelvis Right	ok		
+Fetal Skin	ok		
+Fetal Skin Abdomen	ok		
+Fetal Skin Back	ok		
+Fetal Skin Biceps Left	ok		
+Fetal Skin Biceps Right	ok		
+Fetal Skin Quadriceps Left	ok		
+Fetal Skin Quadriceps Right	ok		
+Fetal Skin Scalp	ok		
+Fetal Skin Upper Back	ok		
+Fetal Small Intestine	ok		
+Fetal Spinal Cord	ok		
+Fetal Stomach	ok		
+Fetal Testis	ok		
+Fetal Thymus	ok		
+Fetal epididymis	ok		
+Fetal spleenocytes	new		
+Forearm Skin Biopsy	ok		
+Forebrain	ok		
+Forelimb	ok		
+Forelimb And Hindlimb	ok		
+Forelimb And Hindlimb Autopod	ok		
+Forelimb Autopod	ok		
+Forelimb Bud	ok		
+Foreskin	ok		
+Frontal	ok		
+GBM12-3080	new		
+GBM12-5199	new		
+Gastric Cancer Line	new		
+Gastric Primary Sample	new		
+Gastrointestinal stromal tumor (GIST) cell line	new		
+Gingiva	ok		
+Globus Pallidus	ok		
+HCT116	new		
+HPC7 cells	new		
+Haematopoietic and lymphoid	new		
+HeLa cells	new		
+HeLa contaminant	new		
+Head and neck 	ok		
+Heart	ok		
+Hematologic malignancy	new		
+Hematopoietic System	new		
+HepG2 cells	new		
+Hepatocarcinoma tissue	new		
+Hindbrain	ok		
+Hindlimb	ok		
+Hindlimb Autopod	ok		
+Hindlimb Bud	ok		
+Hippocampus	ok		
+Human-Derived ALL Cell Line	new		
+Hypothalamus	ok		
+Ileum	ok		
+In vitro cultured cell line	new		
+Intestinal Crypt	ok		
+Intestine	ok		
+Iris Pigment	ok		
+Islet	new		
+Islets	new		
+Kidney	ok		
+LNCaP cells	new		
+Large Intestine	ok		
+Left Ventricle	ok		
+Lens capsule	ok		
+Limb	ok		
+Limb Bud	ok		
+Liver	ok		
+Localized GIST	new		
+Lung	ok		
+Lymph Node	ok		
+Lymphatic Microvascular Endothelial Cell	ok		
+Lymphnode	new		
+MM1S myeloma cell line	new		
+Malignant rhabdoid tumor	new		
+Mammary Gland	ok		
+Mammary tumor tissue	new		
+Mammary tumors	new		
+Maxillary arch	ok		
+Medial ganglionic eminence	new		
+Medulla Oblongata	ok		
+Mesendoderm	ok		
+Metanephric mesenchyme (cap mesenchyme)	new		
+Metastatic GIST	new		
+Mid Frontal Lobe	ok		
+Midbrain	ok		
+Middle Frontal Gyrus	ok		
+Mixed CD4 and CD8 CAR-T cells	new		
+Mouse Back Skin	ok		
+Muscle	ok		
+MutuI cell	new		
+MutuI-LCL cell	new		
+Nasal septum 	ok		
+Nasopharynx	ok		
+Neocortex	new		
+Neural Tube	ok		
+Neuric	ok		
+Normal-MatureLuminal	new		
+Nucleus Accumben	ok		
+OCI-LY7 cells	new		
+Oesophagus	ok		
+Olfactory	ok		
+Olfactory Bulb	ok		
+Oligodendroglioma	new		
+Otic	ok		
+Ovaries	new		
+Ovary	ok		
+PM154 organoids	new		
+Pachynema/Diplonema	new		
+Pancreas	ok		pancreatic
+Pancreatic Islet	ok		pancreatic islets
+Pancreatic ductal	ok		
+Periodontal Ligament	ok		
+Peripheral Blood	new		
+Peripheral Lymphoid Organs	new		
+Peritoneal Effusion	new		
+Peritoneal cavity	ok		
+Peritoneum	ok		
+Peyer's patch	new		
+Pituitary	new		
+Pituitary intermediate lobe	new		
+Placenta	ok		
+Pleura	new		
+Pons	ok		
+Pontine	ok		
+Posterior Fossa	ok		
+Prefrontal	ok		
+Primary mouse lymphoma	new		
+Prostate	ok		
+Proximal Forelimbs	ok		
+Psoas Muscle	ok		
+Pulmonary Artery	ok		
+RPMI8226 myeloma cell line	new		
+Rectal Mucosa	ok		
+Rectum	ok		
+Retina	ok		
+Rib	ok		
+Right Atrium	ok		
+Right Ventricle	ok		
+Sca1+CD45- cardiac cells	new		
+Schlemm's canal	ok		
+Secondary lymphoid organs	new		
+Sigmoid Colon	ok		
+Sinoatrial node 	ok		
+Skeletal Muscle	ok		
+Skin	ok		
+Small Intestine	ok		
+Small Intestine Villi	ok		
+Smooth Chorionic Membrane	ok		
+Snap-frozen tissue	new		
+Spg GC-1 cell line	new		
+Spinal Cord	ok		
+Spinal metastatic tumor	new		
+Spleen	ok		splenic
+Spleen And Lymph Node	ok		
+Spontaneous tumors	new		
+Stomach	ok		
+Striatum	ok		
+Subcutaneous connecive tissue	new		
+Superior cervical ganglion	ok		
+Supratentorial Ependymoma	new		
+Suspension HeLa cells	new		
+Synovial Fluid	ok		
+THMYCN tumor	new		
+Tail	ok		
+Tailbuds	new		
+Telencephalon	ok		
+Testis	ok		
+Thymus	ok		Thymic
+Thyroid	ok		
+Tongue	ok		
+Tonsil	ok		
+Trabecular meshwork	ok		
+Trachea	ok		
+Transplanted tumors	new		
+Umbilical Cord	ok		
+Umbilical Vein	ok		
+Upper Limb Muscle	ok		
+Ureter	ok		
+Urinary Bladder	ok		
+Urogenital sinus (UGS)	new		
+Urothelium	ok		
+Uterus	ok		
+adenoid cystic carcinoma (ACC)	new		
+adult ventricle apex (distal 1/3)	new		
+anterior trunk	new		
+autopod	new		
+border zone left ventricular nuclei post myocardial infarction	new		
+cardiac tissue	new		
+caudate nucleus	new		
+celiac ganglia	new		
+cell line mixture (BJ, GM12878, H1, K562)	new		
+chondroblastoma	new		
+colonic lamina propria	new		
+colorectal cancer cell line	new		
+dLN	new		
+dentate gyrus	new		
+dermis	new		
+differentiating hES cells	new		
+dissected E12.5 mouse ventricle	new		
+dorsal root ganglia (DRG)	new		
+dura	new		
+eWAT	new		
+embryonic facial prominence	new		
+endometrioid adenocarcinoma	new		
+epithelioid sarcoma	new		
+ganglionic gut	new		
+gastrocnemius medialis	new		
+gastroesophageal sphincter	new		
+hTert-HME1 cell line	new		
+haematopoietic progenitors	new		
+head	new		
+hiPSC-derived lt-NES	new		
+hippocampal cell line	new		
+human erythroleukemic cell line	new		
+human primary effusion lymphoma	new		
+iWAT	new		
+inferior parietal cortex	new		
+intestinal organoid	new		
+intestinal villus	ok		
+jejunum	new		
+lateral temporal lobe	new		
+lens	ok		
+lesion	new		
+malignant melanoma, noncutaneous metastasis	new		
+many tissues represented	new		
+mature thymocytes	new		
+meningioma	new		
+mesenchyme	new		
+molar	new		
+mouse incisor pulp	new		
+myometrial tissue	new		
+non-epithelial cochlear cells	new		
+occipital lobe	new		
+omental fat pad	new		
+optic cups	ok		
+ovarian	new		
+pharynx	new		
+plasmid	new		
+primary Wilms tumor sample	new		
+primary colorectal cancer tumor	new		
+primary medulloblastoma	new		
+proximal Epiblast	new		
+putamen	new		
+quadriceps myofibers	new		
+right cardiac atrium	new		
+right hemisphere	new		
+seedlings	new		
+sham operated left ventricular nuclei	new		
+superior cervical ganglia	new		
+superior temporal gyrus	new		
+testes	new		
+tibial nerve	new		
+tibialis anterior	new		
+transitional cell papilloma	new		
+uterine leiomyosarcoma	new		
+vagina	new		
+visceral yolk sac	ok		
+wild type	new		
+yolk sac	new		

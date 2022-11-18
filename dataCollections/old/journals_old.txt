@@ -1,0 +1,242 @@
+1	Bioinformatics		5.468
+2	Electrophoresis		3.303
+3	PLoS ONE		4.092
+4	Genome Res.		13.608
+5	Cell Res.	1001-0602	8.19
+6	Nature		36.28
+7	Cancer Cell		26.566
+8	Mol. Cell. Biol.		5.527
+9	Immunity		21.637
+10	Cell		32.403
+11	EMBO J.		9.205
+12	BMC Genomics		4.073
+13	Genes Dev.		12.444
+14	PLoS Comput. Biol.		5.215
+15	Mol. Endocrinol.		4.544
+16	Neuron		14.736
+17	Cell Stem Cell		25.421
+18	Nat. Cell Biol.		19.488
+19	Proc. Natl. Acad. Sci. U.S.A.		9.681
+20	Dev. Cell		14.03
+21	Blood		9.898
+22	Sci Signal		7.499
+23	Nat. Genet.		35.532
+24	Mol. Cell		14.178
+25	Mol. Syst. Biol.		8.626
+26	Nucleic Acids Res.		8.026
+27	Genetics		4.007
+28	Nature Medicine	1078-8956	22.462
+29	Nat. Biotechnol.		23.268
+30	Nat. Struct. Mol. Biol.		12.712
+31	PLoS Genet.		8.694
+32	Dev. Biol.		4.069
+33	Genome Biol.		9.036
+34	J. Biol. Chem.		4.773
+35	Science		31.201
+36	Nat. Methods		19.276
+37	J. Exp. Med.		13.853
+38	J Biomed Biotechnol	1110-7243	2.436
+39	BMC Syst Biol		3.148
+40	Am. J. Pathol.		4.89
+41	Genes Chromosomes Cancer		3.306
+42	Virol. J.		2.343
+43	PLoS Biol.		11.452
+44	Cancer Res.		7.856
+45	Nat. Immunol.		26.008
+46	J. Immunol.		5.788
+47	Cell Metab.		13.668
+48	Genome Med		3.906
+49	Stem Cells		7.781
+50	EMBO Rep.		7.355
+51	Oncogene		6.373
+52	BMC Dev. Biol.		3.148
+53	Cell Cycle		5.359
+54	J. Clin. Invest.		13.069
+55	Cancer Discov.	 	10.143
+56	Leukemia.	 	9.561
+57	Circulation Research	 	14.739
+58	Development	1477-9129	6.596
+59	Oncotarget	1949-2553	4.784
+60	Epigenetics Chromatin	1756-8935	4.46
+61	Mol. Biol. Cell		4.942
+62	Cell Rep		2.286
+63	Mol. Immunol.		2.897
+64	Ann. Rheum. Dis.		8.727
+65	Elife		0
+66	J. Steroid Biochem. Mol. Biol.		3.053
+67	Nat Commun		7.396
+68	Toxicol. Sci.		4.652
+69	Cell Host Microbe		13.5
+70	J. Am. Chem. Soc.		9.907
+71	FASEB J.		5.712
+72	Epigenetics		4.318
+73	Cancer Discov		10.143
+74	Mol. Cell. Endocrinol.		4.192
+75	J Am Podiatry Assoc		0.768
+76	Nat. Neurosci.		15.531
+77	Physiol. Genomics		2.735
+78	Am. J. Hum. Genet.		10.603
+79	Leukemia		9.561
+80	Hum. Mol. Genet.		7.636
+81	J. Neurosci.		7.115
+82	Nat. Med.		22.462
+83	PLoS Pathog.		9.127
+84	Carcinogenesis		0
+85	Circ Cardiovasc Genet		0
+86	Cell Death Dis		0
+87	G3 (Bethesda)		0
+88	Biol. Reprod.		0
+89	Gastroenterology		0
+90	Thorax		0
+91	Hepatology		0
+92	Mol. Cancer Res.		0
+93	Sci Rep		0
+94	J. Virol.		0
+95	Stem Cell Reports		0
+96	Immunology		0
+97	Eur. J. Immunol.		0
+98	EMBO Mol Med		0
+99	J. Cell. Sci.		0
+100	J Mol Cell Biol		0
+101	Gut		0
+102	ACS Chem. Biol.		0
+103	AIDS		0
+104	J. Urol.		0
+105	Mol. Cancer		0
+106	Cell Death Differ.		0
+107	Circ Heart Fail		0
+108	Bone		0
+109	J. Am. Soc. Nephrol.		0
+110	Open Access Bioinformatics		0
+111	Circ. Res.		0
+112	Mol. Hum. Reprod.		0
+113	Database (Oxford)		0
+114	Haematologica		0
+115	Stem Cell Rev		0
+116	Nucleus		0
+117	Mucosal Immunol		0
+118	Genom Data		0
+119	Chem. Biol.		0
+120	Cell. Mol. Immunol.		0
+121	J Vis Exp		0
+122	Stem Cell Res		0
+123	Clin Epigenetics		0
+124	Nat. Chem. Biol.		0
+125	BMC Biol.		0
+126	Oncoscience		0
+127	Biochim. Biophys. Acta		0
+128	Endocrinology		0
+129	RNA Biol		0
+130	Front Neuroanat		0
+131	Mol. Cell Proteomics		0
+132	Hum. Mutat.		0
+133	DNA Res.		0
+134	J. Invest. Dermatol.		0
+135	Biol Open		0
+136	Breast Cancer Res. Treat.		0
+137	Front Genet		0
+138	Cell Mol Gastroenterol Hepatol		0
+139	Placenta		0
+140	J. Autoimmun.		0
+141	Cell Syst		0
+142	Diabetologia		0
+143	BMC Cancer		0
+144	J. Bone Miner. Res.		0
+145	Int. J. Biochem. Cell Biol.		0
+146	Genomics		0
+147	Nucl Recept Signal		0
+148	Transcription		0
+149	FEBS Lett.		0
+150	J. Mol. Cell. Cardiol.		0
+151	Mol Metab		0
+152	Clin. Cancer Res.		0
+153	J. Cell. Physiol.		0
+154	J. Hepatol.		0
+155	Integr Biol (Camb)		0
+156	Sci Adv		0
+157	Mol Oncol		0
+158	IUBMB Life		0
+159	Cell Discov		0
+160	Genes Immun.		0
+161	RNA		0
+162	Cereb. Cortex		0
+163	Mol. Neurobiol.		0
+164	Exp. Hematol.		0
+165	Sci Transl Med		0
+166	BMC Bioinformatics		0
+167	Biophys. J.		0
+168	Free Radic. Biol. Med.		0
+169	J Am Heart Assoc		0
+170	Transl Psychiatry		0
+171	Exp. Cell Res.		0
+172	BMC Med Genomics		0
+173	Stem Cells Transl Med		0
+174	Mamm. Genome		0
+175	Aging Cell		0
+176	eNeuro		0
+177	Pigment Cell Melanoma Res		0
+178	Toxicol. Appl. Pharmacol.		0
+179	Cancer Lett.		0
+180	Mutat. Res.		0
+181	EBioMedicine		0
+182	Environ. Health Perspect.		0
+183	JCI Insight		0
+184	Circulation		0
+185	Am. J. Respir. Cell Mol. Biol.		0
+186	BMB Rep		0
+187	Am. J. Physiol. Lung Cell Mol. Physiol.		0
+188	J. Cell Biol.		0
+189	Mol. Cancer Ther.		0
+190	Biomed Res Int		0
+191	Kidney Int.		0
+192	Arch. Toxicol.		0
+193	Schizophr. Res.		0
+194	Mol. Genet. Genomics		0
+195	Front Mol Neurosci		0
+196	Bone Res		0
+197	Anal. Chem.		0
+198	J. Mol. Biol.		0
+199	Mol. Cell. Neurosci.		0
+200	J. Cyst. Fibros.		0
+201	iScience		0
+202	Biochim Biophys Acta Gene Regul Mech		0
+203	Sci Immunol		0
+204	Mol. Pharmacol.		0
+205	Neurobiol. Dis.		0
+206	Front Immunol		0
+207	J. Allergy Clin. Immunol.		0
+208	Life Sci Alliance		0
+209	J. Biol. Rhythms		0
+210	Schizophr Bull		0
+211	Brain		0
+212	Mol. Biol. Rep.		0
+213	Oncogenesis		0
+214	Blood Adv		0
+215	Blood Cancer J		0
+216	Acta Neuropathol.		0
+217	Epigenomics		0
+218	Cardiovasc. Res.		0
+219	Angew. Chem. Int. Ed. Engl.		0
+220	Commun Biol		0
+221	BMC Res Notes		0
+222	Curr. Biol.		0
+223	Cancer Sci.		0
+224	Reproduction		0
+225	Genes (Basel)		0
+226	J Hematol Oncol		0
+227	Dev. Growth Differ.		0
+228	J Mammary Gland Biol Neoplasia		0
+229	Theranostics		0
+230	Nat Metab		0
+231	Stem Cell Res Ther		0
+232	J. Cell. Mol. Med.		0
+233	Metallomics		0
+234	Nat Protoc		0
+235	Occup Health Saf		0
+236	Genome Biol Evol		0
+237	Cancers (Basel)		0
+238	Int. J. Biol. Sci.		0
+239	Front Oncol		0
+240	J. Clin. Endocrinol. Metab.		0
+241	Am. J. Physiol. Heart Circ. Physiol.		0
+242	Arterioscler. Thromb. Vasc. Biol.		0

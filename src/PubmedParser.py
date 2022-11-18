@@ -25,8 +25,8 @@ _ppath = "/".join(_this_mod.__file__.split("/")[:-1])
 # from django.utils.encoding import smart_str
 # import settings
 # setup_environ(settings)
-import env
-models = env.models
+# import env
+# models = env.models
 
 def getPubmedXML(accession):
     """our PUBMED XML librarian!

@@ -1,0 +1,124 @@
+1	Cervical Adenocarcinoma			
+2	Chronic Myelogenous Leukemia			
+3	Adenocarcinoma			
+4	Normal			(None)
+5	Ductal Carcinoma			
+6	Prostatic Adenocarcinoma			
+7	Leukemia			
+8	Primary Pancreatic Adenocarcinoma			
+9	Ovarian carcinoma			
+10	Carcinoma			
+11	Neuroblastoma			
+12	Tumor			
+13	Glioma			
+14	Colorectal Adenocarcinoma			
+15	Sarcoma			
+16	Acute Megakaryocytic Leukemia			
+17	Prostate Carcinoma			
+18	T-cell Lymphoma			
+19	Melanoma			
+20	T lymphoblastic Leukemia/lymphoma			
+22	Glioblastoma			
+23	Lung Carcinoma			
+25	Cancer			
+26	Primary Human Hepatocytes			
+27	Hepatocellular Carcinoma			
+28	Acute Promyelocytic Leukemia			
+29	Aspartoacylase Deficiency			
+30	EBV-transformed			
+31	Endometrial Adenocarcinoma			
+32	Acute T Cell Leukemia			
+33	Myelogenous Leukemia			
+35	Ehlers-Danlos Syndrome			
+36	Epithelioid Carcinoma			
+37	Burkitt's Lymphoma			
+38	Abelson Murine Leukemia Virus-induced Tumor			
+39	Rhabdomyosarcoma			
+40	Bladder Cancer			
+41	Simpson-Golabi-Behmel syndrome			
+42	Metastatic Neuroblastoma			
+43	Neuroepithelioma			
+44	Glioblastoma Multiforme			
+45	Acute Monocytic Leukemia			
+46	Osteosarcoma			
+47	Retinoblastoma			
+48	Human Metastatic Melanoma			
+49	Acute Myeloid Leukemia (AML)			
+50	Osteomylitis			
+51	Peripheral Vascular Disease			
+52	Normal Mucosa, Diverticular Disease			
+53	Normal mucosa			
+54	Wilms tumor			
+55	Inflammation			
+57	Erythroleukemia			
+58	Breast cancer		ok	
+59	Cardiomyopathy			
+60	Primary effusion lymphoma			
+61	Renal cell adenocarcinoma			
+62	Transitional Cell Carcinoma			
+63	Myeloma			
+64	Embryonal Carcinoma			
+65	B-cell Lymphoma			
+67	Malignant Melanoma			
+68	Medulloblastoma			
+69	Malignant Pluripotent Embryonal Carcinom			
+70	Malignant Peripheral Nerve Sheath Tumor			
+75	Hodgkin's Lymphoma			
+77	iron deficiency, bipolar			
+78	coronary artery disease			
+79	no AD evident at demise			
+80	presumed normal			
+83	no AD present			
+85	NL smooth muscle, stomach rmvd as part of pancr., CA			
+86	NL kidney,right kidney resection for RCC			
+87	Small Cell Lung Carcinoma			
+90	Acute lymphoblastic leukemia cells with MLL/AF4 translocation			
+91	Pancreatic Carcinoma			
+92	Diffuse Large B-cell Lymphoma (DLBCL) 			
+94	T-cell Acute Lymphoblastic Leukemia (T-ALL)		ok	
+95	Plasmacytoma			
+96	Gastric Adenocarcinoma			
+97	Esophageal Squamous Cell Carcinoma			
+98	Trisomy 21		new	
+99	Euploid		new	
+100	Adrenocortical Tumor		ok	
+101	Oesophageal Squamous Cell Carcinoma		ok	
+102	Thyroid Medullary Carcinoma		ok	
+103	Lung Squamous Cell Carcinoma 		ok	
+104	Non-Small Cell Lung Carcinoma		ok	
+106	Asthmatic		new	
+108	Lung Adenocarcinoma		ok	
+109	histiocytic lymphoma		new	
+110	septic disease		new	
+111	B Lymphomas		ok	
+113	Lymphoma		ok	
+114	Acute lymphomablastic leukemia (ALL)		ok	
+115	Pancreatic ductal adenocarcinoma		ok	
+116	NUT Midline Carcinoma 		ok	
+117	Papillary thyroid carcinoma		ok	
+118	Non-dysplastic metaplasia		ok	
+119	Small intestinal adenoma		ok	
+120	Ewing sarcoma		ok	
+121	Liposarcoma		ok	
+122	Triple negative breast adenocarcinoma		ok	
+123	xenografts tumors		new	
+124	Pleural mesothelioma 		ok	
+125	Colorectal cancer		ok	
+126	Gastric cancer		ok	
+127	Erythroleukemic		ok	
+128	Clear cell renal cell carcinoma		ok	
+129	Fibrosarcoma		ok	
+130	healthy		new	
+131	Hyper IgD Syndrome (HIDS)		new	
+132	Systemic lupus erythematosus		new	
+133	-		new	
+134	CLL		new	
+135	EAE		new	
+136	Diseased animal		new	
+137	WT animal wo disease		new	
+138	N/A		new	
+139	Mycosis fungoides		new	
+140	Sezary syndrome		new	
+141	PLL		new	
+142	Disease type AND/OR category unknown		new	
+143	Langerhans cell histiocytosis		new	

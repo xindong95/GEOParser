@@ -1,0 +1,578 @@
+name	status	comment	aliases
+1-cell pronuclei	new		
+3565 cells	new		
+3T3 cells ectopically expressing Dppa4	new		
+ABC-Like DLBCL cell line	new		
+AID-deficient CH12F3 murine lymphoma cells	new		
+AML	new		
+AML cell	new		
+Activated Treg	ok		
+Acute myeloid leukemia	new		
+Adipocyte	ok		
+Adipose Progenitor	ok		
+Alveolar type II (AT2) cells	new		
+Anterior Caudate Cell	ok		
+Anterior Primitive Streak	ok		
+AsPC1	new		
+Astrocyte	ok		
+B Lymphoblast	new		
+B Lymphocyte	ok		B cell|B cells|B-cell
+B cell lymphoma	new		
+B cell precursor	ok		pre-B|preB
+B-ALL	new		
+BM LSK cell	new		
+BM-derived MSPCs	new		
+BM-derived cultured cells	new		
+BM-derived immortalised cells	new		
+BMDM	new		
+Basophil cell	ok		
+Beta cell	ok		
+BirA cells	new		
+Blast Cells	new		
+Blastema Cell	ok		
+Blasts	new		
+Bone cells	new		
+Breast Cancer Cell	new		
+Breast Stem Cell	ok		
+Bulk	new		
+Bulk_B	new		
+Burkitt lymphoma	new		
+Burkitt's lymphoma	new		
+C cell	new		
+CD11b+ cell	new		
+CD14 cell	new		
+CD36 Cell	new		
+CD4 Cell	new		
+CD8T	new		
+CD8pos_T	new		
+CLL IGHV mutated	new		
+CLL IGHV unmutated	new		
+CLP	new		
+CML cell line	new		
+Cancer stem cell	ok		
+Cardiac Precursors	ok		
+Cardiac Progenitor Cells	new		
+Cardiac Ventricles	new		
+Cardiomyocyte	ok		
+Cas9-expressing mouse PDA primary tumor organoid (T6-Cas9)	new		
+Cell Line	new		
+Cervical Carcinoma	ok		
+Chemically induced neural stem-like cells	new		ciNSLCs
+Chondrocyte	ok		
+Cited1-RFP+ cap mesenchyme	new		
+Colon cancer cell	new		
+Colorectal cancer cell line	new		
+Colorectal cancer cells	new		
+Compromises GMP, CMP and MEP	ok		
+Cone Photoreceptor	ok		
+Control Line 1 5iLAF 5% O2 SSEA4 Minus Reversion 1	new		
+Control Line 1 5iLAF 5% O2 SSEA4 Plus Reversion 1	new		
+Control Line 1 5iLAF SSEA4 Minus	new		
+Control Line 1 5iLAF SSEA4 Plus	new		
+Control mouse villus cells	new		
+Cortex	ok		
+Cortical Neuron	ok		
+Corticotroph	ok		
+Crypt cells	new		
+Cumulus cell	new		
+Cytotrophoblast	new		
+D425 sensitive	new		
+D425 tolerant	new		
+DDLPS primary tissue	new		
+Day1 epiblast-like cell	new		
+Day2 epiblast-like cell	new		
+Dendritic Cell	ok		
+Detroit 562 cells	new		
+Diffuse Intrinsic Pontine Glioma (DIPG)	new		
+E12.5 YS progenitors	new		
+E17.5 Ins1-RFP+	new		
+E9.5	new		
+EB	new		
+EGFR+ cells	new		
+EGFR- cells	new		
+EPOP Knockdown	new		
+EPOP Overexpression	new		
+Effector_CD4pos_T	new		
+Embryoid Bodies	ok		Embryoid Body
+Embryonal carcinoma cell	new		
+Embryonic Cortex	ok		
+Embryonic Fibroblast	ok		MEF
+Embryonic Stem Cell	ok		ESC|ES|mES|mESCs|mESC
+Embryonic whole tissue from midgut	new		
+Endocardial cushion cell	ok		
+Endoderm Cell	ok		
+Endothelial Cell	ok		
+Enteric precursor cells	new		
+Enterocyte	ok		
+Eph4	new		
+EpiLC	new		
+Epiblast	new		
+Epiblast Stem Cell	ok		EpiSC|EpiSCs
+Epidermal cell	ok		Epidermis
+Epithelial Cells	new		
+Epithelium	ok		Epithelial
+Epitheloid Cell	ok		
+Erythroblast	ok		
+Erythrocyte A	ok		
+Erythrocyte B	ok		
+Erythroid Cell	ok		
+Erythroid Leukemic Cell	ok		
+Erythroid Progenitor Cell	ok		Erythroid  precursor
+Erythroid progenitor	ok		
+Esophageal squamous cell carcinoma (ESCC)	new		
+Ewing sacroma	new		
+Ewing sarcoma	new		
+Exocrine	ok		
+FACS sorted G1 high group	new		
+FACS sorted G1 low group	new		
+FACS sorted G2 group	new		
+FACS sorted S group	new		
+Fibroblast	ok		
+Flk-sorted cell	new		
+Flk1	new		
+Follicular  cell	ok		
+Follicular_T_Helper	new		
+Free cell	new		
+GCB DLBCL cells	new		
+GMP-like Leukaemic Cell	ok		
+GRM6-GFP sorted Bipolar cell	new		
+Gamma_delta_T	new		
+Gastric adenocarcinoma	new		
+Genital Adipocyte	ok		
+Germ Cell	ok		
+Germinal center dark zone cells	new		
+Germinal center light zone cells	new		
+Germline stem cell	ok		
+Glial Cell	ok		
+Glioblastoma	new		
+Glioblastoma Multiforme Stem Like	ok		
+Glioblastoma Stem Cell	ok		
+Glioblastoma cell	ok		
+Glioma Initiating Cell	ok		
+Goblet Cell	ok		
+Granulocyte	ok		
+Granulocyte Monocyte Progenitor	ok		GMP
+Granulocytic Progenitor Cell	ok		
+Granulosa cell	ok		
+H69AR	new		
+HCC1143 (Human TNM stage IIA, grade 3, primary ductal carcinoma)	new		
+HEK 293 Cell Line	new		
+HIV-1 latency T cell	ok		
+HMLE-Twist-ER_0nM	new		
+HMLE-Twist-ER_125nM	new		
+HPV+ HNSCC cell line	new		
+Haematopoietic Progenitor Cell	ok		
+Haemogenic Endothelium	new		
+Hair Follicle Stem Cell	ok		
+Hair follicle stem cell	ok		HFSCs
+Helper Cells	new		
+Hemangioblast	ok		
+Hematopoietic Cell	ok		
+Hematopoietic Stem Cell	ok		HSC
+Hematopoietic progenitors	ok		
+Hematopoietic stem and progenitor cell	ok		hematopoietic stem/progenitor cell|HSPC
+Hemogenic Endothelium	new		
+Hepatic Stellate Cell	ok		
+Hepatoblast	ok		
+Hepatocyte	ok		
+Hippocampus Cell	ok		
+Hippocampus Middle Cell	ok		
+Hodgkin Lymphoma Cell	new		
+HoxB8	new		
+Hoxa9 single expressing murine AML cells	new		
+Hoxa9-and Meis1-co-expressing murine AML cells	new		
+Human Breast Cancer Cell	new		
+Human Cell Line	new		
+Human colorectal cancer	new		
+Human colorectal carcinoma	new		
+Human colorectal tumor	new		
+Human embryonal carcinoma	new		
+ICB resistant cell	new		
+ILCP	new		
+IN528	new		
+Immature Erythroid cell	ok		
+ImmatureB	new		
+Inferior Temporal Lobe Cell	ok		
+Innate lymphoid cell precursors (ILCPs)	new		
+Innate lymphoid cells	new		
+Inner Cell Mass	ok		
+Inner Medullary Collecting Duct-3 Cell	ok		
+Intefollicular Epidermal Cell	ok		
+Intermediate	ok		
+Intestinal Crypt	new		
+Intestinal Stem Cell	ok		
+Junction cell	ok		
+KSHV infected Body Cavity Based Lymphoma Cells	new		
+Keratinocyte	ok		
+Kupffer cell	ok		
+LDG	new		
+LKS SLAM cells	new		
+LLC-NR	new		
+LLC-R	new		
+LMPP-like	new		
+LPD bulk tissue	new		
+LSK cells	new		
+Leiomyoma Cell	ok		
+Leiomyosarcoma cells	new		
+Leukemia	new		
+Leukemia Cell	ok		
+Leukemia Stem Cell	ok		
+Leukemic Blast Cell	ok		
+Leukemic cells	new		
+Leydig	new		
+Lin- BM derived DN3 cells	new		
+Lin-Sca1-cKit+ cells	new		
+Lineage Negative Cells	new		
+Liver cell	new		
+Liver tumour cell	new		
+Lmphoma cell	new		
+Luminal Cell	ok		
+Luminal Progenitor Cell	ok		
+Lung Cancer Cell	ok		
+Lymphoblast	ok		
+Lymphoblastoid	ok		
+Lymphocyte	ok		
+Lymphoid Progenitor	ok		
+MCF10DCIS cells	new		
+MDP	new		
+MECs	new		
+MGE organoids	new		
+MLPS primary tissue	new		
+MRT	new		
+MSC	new		
+Macrophage	ok		
+Macrophage Progenitor	ok		
+Mammary Stem Cell	ok		
+Mammary carcinoma cell	new		
+Mantle cell lymphoma cell line	new		
+Mast Cell	ok		
+Medulloblastoma	new		
+Megakaryoblastic	ok		
+Megakaryocitic Erythroyd Progenitor	ok		
+Megakaryocyte	ok		
+Melanocyte	ok		
+Melanocytic cell	new		
+Melanoma Cell	ok		
+Mem_B	new		
+Memory_Teffs	new		
+Merkel cell carcinoma	new		
+Mesenchymal Cell	ok		
+Mesenchymal Progenitors	new		
+Mesenchymal Stem Cell	ok		
+Mesenchymal cell	ok		
+Mesendoderm cell	ok		
+Mesodermal Cell	ok		
+Mesodermal Progenitor Cell	ok		
+Metastatic Cisplatin Resistant (MCR) cells	new		
+Metastatic Cisplatin Resistant Drug Holiday (MCRDH) cells	new		
+Microglial Cell	ok		microglia
+Monocytc cell line	new		
+Monocyte	ok		Mononuclear|monocytic cell|PBMC
+Monolayer-cultured cells established from mouse PDA primary tumor organoid (T3)	new		
+Morula embyro	new		
+Mouse Hepatoma Cell Line	new		
+Mouse PDA primary tumor organoid (T19)	new		
+Mouse PDA primary tumor organoid (T23)	new		
+Mouse PDA primary tumor organoid (T3)	new		
+Mouse PDA primary tumor organoid (T33)	new		
+Mouse PDA primary tumor organoid (T34)	new		
+Mouse PDA primary tumor organoid (T6)	new		
+Mouse PanIN organoid (P2)	new		
+Mouse PanIN organoid (P3)	new		
+Mouse Progenitor Cells	new		
+Muller Cell	ok		
+Multiple myeloma	new		
+Multiple myeloma cell	new		
+Multipotent Progenitor	ok		
+Multipotent cell	new		
+Multipotent progenitor cell	ok		
+Murine Lsk Cell	ok		
+Murine myeloid progenitor M1 cells	new		
+Myeloblast	ok		
+Myeloid Cell	ok		
+Myeloid Progenitor Cell	ok		Myeloid precursor
+Myeloid_DCs	new		
+Myoblast	ok		
+Myocardium	new		
+Myocyte	ok		
+Myofibroblast cell	new		
+Myotube cell	ok		
+Myotubes	new		
+N8-CTx	new		
+NB69	new		
+NDN	new		
+NIH/3T3	new		
+NK precursor cells	ok		
+NMC	new		
+NSC	new		
+NSCLC cells	new		
+Naive_B	new		
+Naive_Teffs	new		
+Natural Killer Cell	ok		NK cell|NKT|NK
+Naïve T Lymphocyte	ok		
+Nephron Progenitor Cell	new		
+Neural Progenitor Cell	ok		
+Neural Progenitor-like Cell	ok		
+Neural Stem Cell	ok		
+Neural crest cell	ok		
+Neuroblast	ok		
+Neuroblastoma	new		
+Neuroblastoma PDX	new		
+Neuroblastoma cell	new		
+Neuroblastoma patient cells	ok		
+Neuroblatoma cell line	new		
+Neuroectoderm	ok		
+Neuroepithelial-like stem cell	ok		NESCs
+Neuroglioma cell	ok		
+Neuron	ok		neural cell|neuronal
+Neuronal Progenitor cell	ok		NPC
+Neurosphere	ok		
+Neutrophil	new		
+Neutrophil cell 	ok		Neutrophils
+Neutrophile	new		
+Nkp46+RORgtlo	new		
+Non-neuronal cell	ok		Non-neuronal
+Non_TRM	new		
+Normal Cell	new		
+Normal UPPP	new		
+Oligodendrocyte	new		
+Oligodendrocytes	new		
+Oocyte	ok		
+Osteoblast	ok		
+Osteoclast	new		
+Osteocytic Cell	ok		
+Osteosarcoma cell	new		
+P14 T-cells	new		
+PDAC	new		
+Pachynema Cell	ok		
+Pancreatic acinar cell	ok		
+Pancreatic alpha cell	ok		
+Patient	new		
+Patient derived xenograft cells	new		
+Pericyte	ok		
+Plasma Cell	ok		
+Plasmablast	ok		PB
+Plasmacytoid dendritic cell	ok		pDC|pDCs
+Podocyte	ok		
+Polygonal	ok		
+Pre-B Lymphocyte	ok		
+Pre-osteoblast	ok		Preosteoblast
+Preadipocyte	ok		
+Primary Cisplatin Resistant (PCR) cells	new		
+Primary Cisplatin Resistant Drug Holiday (PCRDH) cells	new		
+Primary lymphoma cells	new		
+Primary mouse osteoclast cells	new		
+Primordial Germ Cell	ok		
+Primordial germ cell	ok		
+Pro-T Lymphocyte	ok		
+Proerythroblast	ok		
+Progenitor B cell	ok		pro-B|proB
+Progenitor Cells	new		
+Progenitor Cells, Mesenchymal	new		
+Promyeloblast	new		
+Promyelocyte	new		
+Promyelocytic cell	ok		
+REH	ok		
+REM2+/EpCAM+ (stem)	new		
+REM2-/EpCAM+ (non-stem)	new		
+RT4	new		
+Regulatory_T	new		
+Renal Cell	new		
+Renal Epithelial Cell	ok		
+Resting T Cell	ok		
+Resting Treg	ok		
+RestingBcell	new		
+Retinal pigment cell	ok		
+Rod	new		
+Rod Photoreceptor	ok		
+SEM	ok		
+SER	new		
+SJNB3	new		
+SKH-1 cells	new		
+SKOV3	new		
+SUIT2	new		
+Satellite Cells	ok		
+Sca1+ CD45- cardiac cells	new		
+Schneider 2 cells	new		
+Schwann Cell	ok		
+Scid.adh.2c2	new		
+Setd2 fl/fl BMSCs	new		
+Six2+	new		
+Six2-	new		
+Small Round Tumor Cell	ok		
+Smooth Muscle Cell	ok		HCASMC
+Somatic	new		
+Sorted cDC	new		
+Spermatid	ok		spermatozoa|sperm
+Spermatocyte	ok		
+Spermatogonia	ok		
+Spermatogonial stem and progenitor cell	ok		SSC
+Stellate	ok		
+Stem cell	ok		
+Striatal Cell	ok		
+Stromal Cell	ok		
+Substantia Nigra Cell	ok		
+Synovial Sarcoma	new		
+T Helper cell	ok		
+T Lymphoblast	new		
+T Lymphocyte	ok		T cells|T cell
+T cell leukemia	new		
+T reg	new		
+T-ALL	new		
+T-bet+ cDC2	new		
+T-bet- cDC2	new		
+TCR transgenic cells	new		
+TCRb+YFP+ cells	new		
+TFAP2C-/- Line 1 5iLAF 5% O2 SSEA4 Minus Reversion 1	new		
+TFAP2C-/- Line 2 5iLAF 5% O2 SSEA4 Plus Reversion 1	new		
+TFH	new		
+TIM3Pos_IL7Rneg_TRM	new		
+TS cell line	new		
+Th cell	new		
+Th0	ok		
+Th1	ok		
+Th17	ok		
+Th2	ok		
+Th9	ok		
+Thy2.1+ cell	new		
+Thymic EpCAM+Ly51+	new		
+Thymic EpCAM+Ly51-MHCIIhi	new		
+Thymic EpCAM+Ly51-MHCIIlo	new		
+Thymocyte	ok		
+Transient-amplifying Matrix Cell	ok		
+Treg	new		
+Treg cell	ok		
+Trophectoderm cell	ok		
+Trophoblast Giant Cell	ok		
+Trophoblast Progenitors	new		
+Trophoblast Stem Cell	ok		TSC
+Trophoblast cell	ok		
+Tumor cells	new		
+Tumor-derived cell-line	new		
+Tumour cells, NOS	new		
+Type 1 innate lymphoid cells	ok		ILC1|Group 1 innate lymphoid cells
+Type 2 innate lymphoid cell	ok		ILC2|Group 2 innate lymphoid cells
+Type 3 innate lympoid cell	ok		ILC3|Group 3 innate lympoid cell
+Undifferentiated Cell	new		
+Undifferentiated Pleomorphic Sarcoma (UPS)	new		
+Vascular endothelial cell	new		
+Visual Cortex	ok		
+WS hMSCs	new		
+WT hematopoietic progenitor IVD cells	new		
+Zygote	ok		
+acinar	new		
+acute myeloid leukemia (AML) cell line	new		
+alpha	new		
+alveolar macropahges	new		
+asynchonous cells	new		
+basal TAC	new		
+basal radial glia	new		
+basophil	new		
+beta	new		
+bladder cancer cell line 5637	new		
+bladder cancer cell line J82	new		
+cDC1	new		
+cMoP	new		
+cTEC	new		
+cTEChi	new		
+cTEClo	new		
+cancer cells	new		
+cardiac progenitor (CP)	new		
+cardiogenic mesoderm (C-ECs)	new		
+cell culture	new		
+cell stomach	new		
+cells line	new		
+chromosome duplication model of Dup15q syndrome	new		
+colorectal adenocarcinoma	new		
+colorectal carcinoma	new		
+colorectal carcinoma derived cell line	new		
+cortical progenitors	new		
+double negative 2	new		
+double negative 3	new		
+duct	new		
+eNSC & P2-pOL	ok		
+embryonic carcinoma cells	new		
+embryonic stem	new		
+embryonic teratoma	new		
+endocrine	new		
+endometrial cancer cell line	new		
+endometrial carcinoma	new		
+erythroid	new		
+fetal RPE	new		
+fibrobasts	new		
+fibrosarcoma	new		
+gastric cancer cell	new		
+gastric cancer cell line	new		
+gdT Cell	new		
+glioma cancer cell line overexpressing sGC-beta1	new		
+glioma propagating cells	new		
+glioma tumorsphere	new		
+glomerular visceral epithelial cell	new		
+gonocyte	new		
+hESC	new		
+hTERT immortalized endometriosis cells	new		
+hair follicle	new		
+hemogenic mesoderm (H-ECs)	new		
+hepatocarcinoma	new		
+hepatocellular carcinoma	new		
+hepatocellular carcinoma cell	ok		
+hiPS cell	new		
+hiPSC-derived cells	new		
+hiPSCs-CMs	new		
+high sorted	new		
+human Wnt+Fgf-specified intestinal culture cells	new		
+human brest cancer cell line	new		
+human cervical cancer cell line	new		
+human gastric cancer cells	new		
+iMOP	new		
+iPSC	ok		iPS|induced pluripotent stem cells
+iTreg	new		
+immortalized mouse DCT cells	new		
+ipNF05.5	new		
+liposarcoma cells	new		
+low sorted	new		
+lymphoma cell line	new		
+mDA	new		
+mNK	new		
+mTEC	new		
+mTEChi	new		
+mTEClo	new		
+many cell types represented	new		
+matched normal adjacent to MGH_4 chordoma	new		
+melanoma	new		
+mouse adenocarcinoma	new		
+mouse embryonic cell line E14	new		
+mouse hepatoma derived cells	new		
+mouse myotube	new		
+myogenic progenitors	ok		
+neural crest line	new		
+neurogenic apical radial glia	new		
+original PDAC cell line	new		
+osteosarcoma	new		
+pre-PB cell	new		
+pre-cDC1	new		
+preB derived p20 iPS	new		
+preB derived p3 iPS	new		
+primary gastric normal	new		
+primary gastric tumor	new		
+pro-T-cell line	new		
+proliferative apical radial glia	new		
+renal tubular cells	new		
+reprogramming cells	new		
+resting	new		
+rhabdomyosarcoma	new		
+sarcoma-derived cells	new		
+sorted CFU-E	new		
+sorted LSK	new		
+spermatogenic cells	new		
+splenic B 1a cells	new		
+squamous cell carcinoma	new		
+suprabasal TAC	new		
+t(3;21) paitent	new		
+tdMEFs at day 0 of reprogramming	new		
+tdMEFs at day 4 of reprogramming	new		
+tdMEFs at day 8 of reprogramming	new		
+trophoblast stem-like (TS) cells	new		
+tumor cell line	new		
+tumor-derived cell line	new		
+wt cells	new		

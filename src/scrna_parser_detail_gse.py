@@ -25,12 +25,12 @@ _ppath = "/".join(_this_mod.__file__.split("/")[:-1])
 
 from django.utils.encoding import smart_str
 
-import env
-models = env.models
+# import env
+# models = env.models
 
-import PubmedParser
-import getGEOSamples_byType_gse
-import scrna_parser_from_gse  
+import src.PubmedParser
+import src.getGEOSamples_byType_gse
+import src.scrna_parser_from_gse  
 
 
 def _parse_a_field(description_dict, a_field, DCmodel, max_create_length=100, new=False):

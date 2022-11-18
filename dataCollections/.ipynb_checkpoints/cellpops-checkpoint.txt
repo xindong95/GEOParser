@@ -1,0 +1,77 @@
+name	status	comment	aliases
+AoAF	ok		
+B220+ IgM- CD43+ CD25-	ok		
+B220+ IgM- CD43- CD25+	ok		
+BM-HPC	ok		
+CD10+	ok		
+CD133+	ok		
+CD14+	ok		
+CD15+	ok		
+CD19+	ok		
+CD20+	ok		
+CD24+	ok		
+CD3+	ok		
+CD34+	ok		
+CD36+	ok		
+CD4+	ok		
+CD4+ / CD8+	ok		
+CD4-	ok		
+CD41+	ok		
+CD41-	ok		
+CD43+	ok		
+CD43-	ok		
+CD44+	ok		
+CD56+	ok		
+CD71+ / Ter119+	ok		
+CD8+	ok		
+DLK1+	ok		
+EBF-/- pre-pro-B cell	ok		
+GFP, integrin alpha 6, ephrinB1	ok		
+GMP	ok		
+HAEC	ok		
+HAEpiC	ok		
+HAc	ok		
+HBMEC	ok		
+HBVP	ok		
+HBVSMC	ok		
+HCF	ok		
+HCFaa	ok		
+HCM	ok		
+HCPEpiC	ok		
+HConF	ok		
+HEEpiC	ok		
+HFF	ok		
+HIPEpiC	ok		
+HMEC	ok		
+HMF	ok		
+HMVEC	ok		
+HNPCEpiC	ok		
+HPAEC	ok		
+HPAF	ok		
+HPF	ok		
+HPdLF	ok		
+HRCEpiC	ok		
+HRGEC	ok		
+HRPEpiC	ok		
+HSMM	ok		
+HUVEC	ok		
+HVMF	ok		
+Hae	ok		
+Hcpe	ok		
+ID2-HPC	ok		
+Integrin Alpha 6 and CD34	ok		
+Lin-SCA+CD34+	ok		
+Melanocyte Primary Cell	ok		
+NH-A	ok		
+NeuN+	ok		
+NeuN-	ok		
+PBMC	ok		
+PUER	ok		
+Primary Cell (Lymph node and spleen)	ok		
+Primary Isolated AT2 Cell	ok		
+RPTEC	ok		
+TETR	ok		
+Ter119+	ok		
+c-Kit+	ok		
+hSkM	ok		
+pHTE	ok		

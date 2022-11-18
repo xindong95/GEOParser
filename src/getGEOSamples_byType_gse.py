@@ -23,10 +23,10 @@ _this_mod = sys.modules[_modname]
 _ppath = "/".join(_this_mod.__file__.split("/")[:-1])
 
 from django.utils.encoding import smart_str
-import env
-models = env.models
+# import env
+# models = env.models
 
-import scrna_parser_from_gse
+import src.scrna_parser_from_gse
 
 def readGeoXML(path, docString=None):
     """

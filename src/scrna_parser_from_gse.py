@@ -19,7 +19,7 @@ except ImportError:
     import xml.etree.ElementTree as ET
 
 from xml.dom.minidom import parseString
-
+from src.utilities import print_log, GDSid_to_Acc
 #AUTO-load classifiers
 #a trick to get the current module
 _modname = globals()['__name__']
@@ -27,8 +27,8 @@ _this_mod = sys.modules[_modname]
 
 _ppath = "/".join(_this_mod.__file__.split("/")[:-1])
 
-import getGEOSamples_byType_gse
-import scrna_parser_detail_gse
+import src.getGEOSamples_byType_gse
+import src.scrna_parser_detail_gse
 # from django.utils.encoding import smart_str
 
 # import scrna_parser_sampleDetail
@@ -39,12 +39,6 @@ import scrna_parser_detail_gse
 
 
 """ ========== main script ========== """
-
-def getSyncLog(infoStr):
-    """ouput the record to DoneGsmXml.log file
-    """
-    os.system('echo "[%s] %s"' % (time.strftime('%H:%M:%S'), infoStr))
-
 
 ### GDS interface
 def getGDSSamples(date_region=False):
@@ -69,7 +63,7 @@ def getGDSSamples(date_region=False):
         print(date_region)
         URL = """http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gds&term=SRA[Sample%20Type]%20AND%20gse[Entry%20Type]%20AND%20(homo%20sapiens[Organism]%20OR%20mus%20musculus[Organism])&mindate=%s&maxdate=%s&datetype=pdat&retmax=100000&usehistory=y"""%(minTime, maxTime)
     try:
-        getSyncLog("getGDSSample: %s" % URL) # output record
+        print_log("getGDSSample: %s" % URL) # output record
         f = urllib.request.urlopen(URL)
         root = ET.fromstring(f.read())
         f.close()
@@ -91,55 +85,6 @@ def getGDSSamples(date_region=False):
         print('-' * 60)
     return ret
 
-def gse_idToAcc(gdsId):
-    """Given a GDS id, e.g. 300982523, tries to give a GDS accession, e.g.
-    GSM982523
-
-    NOTE: there is an algorithm: acc = "GSM"+gdsId[1:] (strip leading 0s)
-    """
-    #Cut = dropping of the "3" (which indicates sample) and removal of leading
-    #leading 0s
-    cut = gdsId[1:].lstrip("0")
-    return "GSE%s" % cut
-
-def proxyInstead(link, using=False):
-    """using proxy to aviod forbidden
-    """
-    context = ''
-    if using:
-        #using proxy first
-        try: # using proxy first, or using the read ip
-            agent = [x.rstrip() for x in open('./pickle_file/proxy.txt')]
-            proxy = {'http':'http://%s'%random.sample(agent, 1)[0]}
-            urlf = urllib.request.urlopen(link, proxies = proxy)
-            getSyncLog('.')
-        except:
-            urlf = urllib.request.urlopen(link)
-            proxy = {'proxy':'local IP'}
-            getSyncLog('.') # use for record, so that we can know what happened if error occured
-        # check whether we get the correct inf
-        context = urlf.read()
-        urlf.close()
-        if ('404 - File or directory not found' in context) or ('ERR_ACCESS_DENIED' in context) or (context.strip() == ''):
-            urlf = urllib.request.urlopen(link)
-            context = urlf.read()
-            urlf.close()
-            proxy = {'proxy':'local IP'}
-            getSyncLog('.')
-        getSyncLog('%s: %s'%(list(proxy.values())[0], link))
-        context = context.decode(encoding='utf-8',errors='ignore')
-        return context
-    try:
-        # time.sleep(0.3)
-        urlf = urllib.request.urlopen(link)
-        context = urlf.read()
-        context = context.decode(encoding='utf-8',errors='ignore')
-        urlf.close()
-        getSyncLog('local IP: %s'%link)
-        return context
-    except:
-        print('link problem: %s'%link)
-    return None
 
 def isXML(doc):
     """TEST if it is a valid geo XML record
@@ -175,14 +120,14 @@ def getGeoXML(accession, path='geo_gse'):
             docString = proxyInstead(link=URL)
             if not isXML(docString): # try again
                 #signal.alarm(180)
-                getSyncLog('.')
+                print_log('.')
                 docString = proxyInstead(link=URL)
             if isXML(docString):
                 #write to file
                 f = open(path, "w")
                 f.write(docString)
                 f.close()
-                #getSyncLog(proxy.values()[0]+'\t'+accession + '\n')# output record
+                #print_log(proxy.values()[0]+'\t'+accession + '\n')# output record
             else:
                 print(accession)
                 print("ERROR: accession is NOT xml. (The accession may be deleted from GEO repository)")
@@ -201,7 +146,7 @@ def getGeoXML(accession, path='geo_gse'):
 def _sync_gse(fsave, fill_or_not=False, DataType=False, dateRegion = False, refresh=False, exludeFile = False, xmlPath = './geo_gse'):
     ## get all GDS ids of GSE from API
     gdsSamples = getGDSSamples(dateRegion) # get all gds id
-    getSyncLog('start: There are %s GDS Samples in sum'%(len(gdsSamples)))#
+    print_log('start: There are %s GDS Samples in sum'%(len(gdsSamples)))#
 
     exclude = [] # the gse maybe existed
     if exludeFile:
@@ -218,9 +163,9 @@ def _sync_gse(fsave, fill_or_not=False, DataType=False, dateRegion = False, refr
     for gds in gdsSamples:
         cnt += 1
         if cnt % one_percent == 0:
-            getSyncLog("%s%%"%(cnt/one_percent))
+            print_log("%s%%"%(cnt/one_percent))
             time.sleep(3)
-        gseid = gse_idToAcc(gds)
+        gseid = GDSid_to_Acc(gds)
         if gseid in exclude: # if existed, don't parse again
             continue
         gseXML = getGeoXML(gseid)
@@ -239,7 +184,7 @@ def _sync_gse(fsave, fill_or_not=False, DataType=False, dateRegion = False, refr
                     f.write('\t'.join(list_sample)+'\n')
                     f.close()
                 except:
-                    getSyncLog("Error when writing in table: %s" % s)
+                    print_log("Error when writing in table: %s" % s)
         else:
             out = open(fsave+'_others.txt', 'a')
             out.write('\t'.join(gseid)+'\n')
@@ -249,11 +194,11 @@ def _sync_gse(fsave, fill_or_not=False, DataType=False, dateRegion = False, refr
         # out.close() 
         # time.sleep(0.03) # sleep to avoid IP blocking
 
-    getSyncLog('done!')#
+    print_log('done!')#
 
 
 def sync_samples_from_gse_factor(infile, gse_col, fsave, xmlPath='geo_gse', exludeFile = False, fill_or_not = False, refresh = False):
-    getSyncLog("try to add samples based on outside table which contain gsm ID and factor name")
+    print_log("try to add samples based on outside table which contain gsm ID and factor name")
     f = open(fsave, 'w')
     f.write('%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s'%('GSE', 'Species',
         'PMID', 'Paper', 'Title', 'CellType', 'Tissue', 'Disease',
@@ -266,7 +211,7 @@ def sync_samples_from_gse_factor(infile, gse_col, fsave, xmlPath='geo_gse', exlu
     need_added_samples = [x.rstrip().split('\t') for x in open(infile)]
     need_added_samples = list(set(need_added_samples) - set(exclude))
     # local_db_samples = set(models.Samples.objects.values_list('unique_id', flat=True))
-    getSyncLog('totally %d samples need to be added'%len(need_added_samples))
+    print_log('totally %d samples need to be added'%len(need_added_samples))
     n = 1
     for iterm in need_added_samples:
         print(n) # let me know which the process 
@@ -287,7 +232,7 @@ def sync_samples_from_gse_factor(infile, gse_col, fsave, xmlPath='geo_gse', exlu
                     f.write('\t'.join(list_sample)+'\n')
                     f.close()
                 except:
-                    getSyncLog("Error when writing in table: %s" % s)
+                    print_log("Error when writing in table: %s" % s)
         else:
             out = open(fsave+'_others.txt', 'a')
             out.write('\t'.join(iterm)+'\n')
@@ -303,7 +248,7 @@ def getLocalGeo(fsave, fill_or_not=False, xmlPath="geo_gse", DataType=False, ref
         'PMID', 'Paper', 'Title', 'CellType', 'Tissue', 'Disease',
         'Cell_Pop', 'Release_Date', 'Last_Update_Date', 'GSMs', 'fields_dataType', 'Key_Match')+'\n')
     f.close()
-    getSyncLog("# 1. go through all the xml and check the type in the path of %s"%xmlPath)
+    print_log("# 1. go through all the xml and check the type in the path of %s"%xmlPath)
     local_repo_path = "repository_samples.pickle"
     if DataType:
         # datatype = ['sc-rna-seq', 'sc-atac-seq']
@@ -316,12 +261,12 @@ def getLocalGeo(fsave, fill_or_not=False, xmlPath="geo_gse", DataType=False, ref
     out.close()
     local_repo_samples = set(local_repo_samples_dict.keys())
 
-    getSyncLog("# 2. calculate new samples")
+    print_log("# 2. calculate new samples")
 
     # local_db_samples = set(models.Samples.objects.values_list('unique_id', flat=True))
 
-    # getSyncLog("There are %d samples in local repo." % len(local_repo_samples))
-    # getSyncLog("There are %d samples in local db." % len(local_db_samples))
+    # print_log("There are %d samples in local repo." % len(local_repo_samples))
+    # print_log("There are %d samples in local db." % len(local_db_samples))
     # need_added_samples = sorted(list(local_repo_samples - local_db_samples))
     for gseid in local_repo_samples:
         print(gseid)
@@ -337,7 +282,7 @@ def getLocalGeo(fsave, fill_or_not=False, xmlPath="geo_gse", DataType=False, ref
                     f.write('\t'.join(list_sample)+'\n')
                     f.close()
                 except:
-                    getSyncLog("Error when writing in table: %s" % s)
+                    print_log("Error when writing in table: %s" % s)
         # else:
         #     out = open(infile+'_others.txt', 'a')
         #     out.write('\t'.join(iterm)+'\n')

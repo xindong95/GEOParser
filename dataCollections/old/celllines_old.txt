@@ -1,0 +1,1645 @@
+1	HeLa	ok		
+3	LS174T	ok		
+4	BJ	ok		
+5	MDA-MB-453	ok		((MDA-MB453)|(MDAMB453))
+6	22RV1	ok		
+9	38B9	ok		
+10	3T3-L1	ok		(3T3L1)
+11	8988t	ok		
+12	A2780	ok		
+13	A549	ok		
+14	Ainv15	ok		
+16	aTconv	ok		
+18	BG01	ok		
+19	BG03	ok		
+20	BJ-tert	ok		(BJtert)
+23	C6	ok		
+24	Caco-2	ok		(Caco2)
+25	CADO-ES1	ok		(CADOES1)
+26	SK-N-MC	ok		(SKNMC)
+27	CMK	ok		
+28	LNCaP	ok		
+29	CUTLL1	ok		
+30	DFB	ok		
+31	DLD-1	ok		(DLD1)
+32	E14	ok		
+34	ECC-1	ok		(ECC1)
+35	EJ	ok		
+36	ERMYB	ok		
+37	G1E	ok		
+39	G4A2	ok		
+40	GIST48	ok		
+41	GM01660	ok		
+42	GM06990	ok		
+43	HCT-116	ok		(HCT116)
+44	GM10855	ok		
+45	GM10861	ok		
+46	GM12864	ok		
+47	GM12865	ok		
+48	GM12878	ok		
+49	GM12891	ok		
+50	GM12892	ok		
+52	HUES64	ok		
+53	GM18507	ok		
+54	GM19238	ok		
+55	GM19239	ok		
+56	GM19240	ok		
+57	H1	ok		
+58	H1299	ok		
+59	H7	ok		
+62	HA-h	ok		(HAh)
+63	HA-sp	ok		(HAsp)
+64	HBG3	ok		
+67	HEK293	ok		
+68	HepG2	ok		
+69	hES I3	ok		(hESI3)
+70	HGF	ok		
+71	Hipe	ok		
+72	HL-1	ok		(HL1)
+73	HL-60	ok		(HL60)
+78	HPC-7	ok		(HPC7|(HPC 7))
+79	HPDE6-E6E7	ok		((Hpde6e6e7)|(HPDE6E6E7))
+80	Hrpe	ok		
+81	Hs68	ok		
+82	Htr8	ok		
+83	HUES48	ok		
+84	HUES6	ok		
+85	Huh7	ok		(HuH7|Huh-7)
+86	Huh75	ok		
+87	IB4	ok		
+88	IMR90	ok		(IMR-90)
+89	iPS 4	ok		(iPS4)
+90	iPS A1	ok		(iPSA1)
+91	iPS A6	ok		(iPSA6)
+92	iPS C1	ok		(iPSC1)
+93	iPS DF 19.11	ok		(iPSDF19.11)
+94	iPS DF 19.7	ok		(iPSDF19.7)
+95	iPS DF 4.7	ok		(iPSDF4.7)
+96	iPS DF 6.9	ok		(iPSDF6.9)
+97	iPS-11a	ok		(iPS11a)
+98	iPS-15b	ok		(iPS15b)
+99	iPS-18b	ok		(iPS18b)
+100	iPS-18c	ok		(iPS18c)
+101	iPS-20b	ok		(iPS20b)
+102	Ishikawa	ok		
+103	Jurkat	ok		
+104	MCF-7	ok		(MCF7)
+106	LF2	ok		
+107	LN229	ok		
+109	A673	ok		
+110	MDA-MB-231	ok		(MDAMB231)
+111	MEL86	ok		
+112	Monocd14	ok		
+113	MR4	ok		
+114	NB4	ok		
+117	NHEK	ok		
+118	NHLF	ok		
+119	NHU	ok		
+120	PANC-1	ok		(PANC1)
+125	R1	ok		
+126	Raji	ok		
+127	Ramos	ok		
+129	RD	ok		
+130	Rh4	ok		
+131	RT112	ok		
+132	RWPE1	ok		
+133	SGBS	ok		
+134	SH-SY5Y	ok		(SHSY5Y)
+135	SKMC	ok		
+136	SK-N-SH	ok		(SKNSH)
+137	T47D	ok		(T-47D)
+138	T6E	ok		
+139	T98G	ok		
+140	THP-1	ok		(THP1)
+141	TIG-3	ok		(TIG3)
+142	U2OS	ok		
+143	UPR9	ok		
+144	UrotsaUt189	ok		
+145	VCaP	ok		
+146	WA-7	ok		(WA7)
+147	WERI-Rb-1	ok		(WERIRb1)
+149	WIBR1	ok		
+150	WIBR2	ok		
+151	WIBR3	ok		
+152	WIBR7	ok		
+153	WM262	ok		
+154	WM451-lu	ok		(WM451lu)
+155	XT67E1	ok		
+157	G1ME	ok		
+158	J1	ok		
+160	EWS502	ok		
+161	LS180	ok		
+162	MCV6	ok		
+163	MCV8	ok		
+164	BIV1	ok		
+165	MCV8.1	ok		
+166	C4-2B	ok		(C42B)
+167	GM10847	ok		
+168	GM15510	ok		
+169	GM18505	ok		
+170	GM19193	ok		
+171	GM19099	ok		
+172	GM18951	ok		
+173	GM18526	ok		
+174	AG18359	ok		
+175	AoSMC	ok		
+176	BCBL1	ok		(BCBL-1)
+177	786-O	ok		(786O)
+178	TEX	ok		
+179	F9	ok		
+180	H3396	ok		
+181	OS25	ok		
+182	VCS2	ok		
+183	3134	ok		
+184	AtT-20	ok		(AtT20)
+185	K1106	ok		
+187	BJAB	ok		
+188	BL-41	ok		(BL41)
+189	KMS11	ok		(KMS-11)
+190	TKO2	ok		
+191	PC-3	ok		(PC3)
+192	CA46	ok		
+194	BEAS-2B	ok		(BEAS2B)
+196	TAM_R	ok		(TAMR)
+197	HBL1	ok		
+198	46C	ok		
+199	KMS12	ok		
+200	OCI-Ly19	ok		(OCILy19)
+201	WPMY1	ok		
+203	DICERex5	ok		
+204	Saos-2	ok		((SAOS2)|(Saos2))
+205	OCI-Ly2	ok		(OCILy2)
+206	416B	ok		
+207	A20	ok		
+208	AG04449	ok		
+209	AG04450	ok		
+210	AG09309	ok		
+211	AG09319	ok		
+212	AG10803	ok		
+213	BE2-C	ok		(BE(2)_C|BE2C|BE2)
+214	CH12	ok		
+215	COLO-829	ok		((COLO 829)|(COLO829))
+217	GM12801	ok		
+218	GM12866	ok		
+219	GM12867	ok		
+220	GM12868	ok		
+221	GM12869	ok		
+222	GM12870	ok		
+223	GM12871	ok		
+224	GM12872	ok		
+225	GM12873	ok		
+226	GM12874	ok		
+227	GM12875	ok		
+238	Myometr	ok		
+239	NT2-D1	ok		(NT2D1|NT2/D1)
+240	PanIsletD	ok		
+241	PBDE	ok		
+243	PFSK-1	ok		(PFSK1)
+244	PrEC	ok		
+245	ProgFib	ok		
+247	U87	ok		
+249	SK-OV-3	ok		((SKOV-3)|(SKOV3))
+250	HCC1954	ok		
+252	HCC1428 	ok		(HCC1428)
+253	U937	ok		
+254	Kasumi-1	ok		(Kasumi1)
+255	RKO	ok		
+258	L8057	ok		
+261	GM11994	ok		
+262	TC1	ok		
+263	3.2N	ok		
+264	P19.6	ok		
+265	TNGA	ok		
+266	RPMI-8402	ok		(RPMI8402)
+267	M23F	ok		
+269	BT-474	ok		(BT474)
+270	SKBR-3	ok		((SKBr3)|(SKBR3))
+271	OCI-Ly1	ok		(OCILy1)
+272	OCI-Ly8	ok		(OCILy8)
+273	LCL	ok		
+281	HRE	ok		
+285	HeLa-S3	ok		(HeLaS3)
+286	MDA-231	ok		(MDA231)
+287	Namalwa	ok		
+288	MCF7-LTED	ok		(MCF7LTED)
+289	B3	ok		
+291	H9	ok		
+292	TOT2	ok		
+295	ZR-75-1	ok		(ZR751)
+296	ReN-VM	ok		(ReNVM)
+299	AB32	ok		
+300	U87MG	ok		
+302	KH2	ok		
+305	MM1.S	ok		
+306	PDNC4	ok		
+307	MS4221	ok		
+308	IMS13q	ok		
+312	WM853.2	ok		
+314	7438	ok		
+318	DL23	ok		
+320	HGADFN167	ok		
+321	HGFDFN168	ok		
+322	AG08470	ok		
+323	L428-PAX5	ok		(L428PAX5)
+325	C17.2	ok		
+326	C4-12	ok		(C412)
+328	NCCIT	ok		
+329	Melan-a	ok		(Melana)
+333	M0-91	ok		(M091)
+337	NCI-H3122	ok		(NCIH3122)
+338	NCI-H1819	ok		(NCIH1819)
+339	NCI-H2087	ok		((H2087)|(NCIH2087))
+340	CCRF-CEM	ok		(CCRFCEM)
+342	T47D-MTVL	ok		(T47DMTVL)
+343	H295R	ok		
+345	C88 MEL	ok		(C88MEL)
+346	MelJuSo	ok		
+350	Jurkat E6-1	ok		(JurkatE61)
+351	COLO-320	ok		((COLO 320)|(COLO-320)|(COLO320))
+352	NMuMG	ok		
+355	FLP76	ok		
+356	HPB-ALL	ok		(HPBALL)
+358	NIH-3T3	ok		((NIH 3T3)|(NIH3T3))
+360	FLP143HA	ok		
+362	UKE-1	ok		(UKE1)
+363	266.6	ok		
+364	SKNO-1	ok		(SKNO1)
+366	10T1/2	ok		(10T12)
+371	ME-1	ok		(ME1)
+374	CCE	ok		
+375	CMTi-1	ok		(CMTi1)
+376	CMT1	ok		
+378	K562	ok		(K-562)
+379	BMiFLT3(15-3)	ok		(BMiFLT3(153))
+380	Mutu III	ok		(MutuIII)
+381	FB0167P	ok		
+382	H54	ok		
+383	FB8470	ok		
+384	H2171	ok		
+385	H128	ok		
+387	V6.5	ok		
+390	LoVo	ok		
+391	GM06993, GM12872	ok		(GM06993,GM12872)
+392	GM11992, GM12763	ok		(GM11992,GM12763)
+393	GM07000, GM11882	ok		(GM07000,GM11882)
+394	GM06993, GM07000, GM11882, GM11992, GM12763, GM12872	ok		(GM06993,GM07000,GM11882,GM11992,GM12763,GM12872)
+403	LX2	ok		
+404	mK3	ok		
+405	mK4	ok		
+408	TC-797	ok		(TC797)
+413	MC3T3	ok		
+414	A375	ok		
+415	MGG6	ok		
+416	MGG4	ok		
+417	MGG8	ok		
+418	MGG23	ok		
+419	HuRef	ok		
+421	Shef 4	ok		(Shef4)
+423	KARPAS-422	ok		(KARPAS422)
+424	WSU-DLCL2	ok		(WSUDLCL2)
+425	Pfeiffer	ok		
+428	LuCaP	ok		
+555	G1E-ER4	ok		((G1E-ER4+E2)|(G1EER4))
+613	EML	ok		
+1008	BCL1	ok		
+1012	SU-DHL6	ok		(SUDHL6)
+1017	SU-DHL5	ok		(SUDHL5)
+1089	HKC8	ok		
+1167	NHDF-neo	ok		(NHDFneo)
+1296	MCF-10A	ok		(MCF10A)
+1297	NCI-H441	ok		(NCIH441)
+1298	NCI-H838	ok		(NCIH838)
+1303	SW620	ok		
+1304	BT-20	ok		(BT20)
+1305	NCI-1703	ok		(NCI1703)
+1307	HCT-15	ok		(HCT15)
+1308	HT29	ok		(HT-29)
+1393	E8.5	ok		
+1440	HT1080	ok		
+1568	C2C12	ok		
+1615	GM08714	ok		
+1849	MEL	ok		
+1868	GM10266	ok		
+1872	GM13977	ok		
+1874	GM20000	ok		
+1879	GM10248	ok		
+1880	GM13976	ok		
+1885	P493-6	ok		(P4936)
+1886	LNCaP-abl 	ok		((LNCaP-ABL)|(LNCaPabl))
+1890	RS4	ok		
+1892	UCSF-4* 	ok		(UCSF4*)
+1897	Farage	ok		
+1898	P19	ok		
+1899	MDAH087	ok		
+1902	LHCN-M2	ok		(LHCNM2)
+1906	M059J	ok		
+1908	GM04504	ok		
+1910	GM04503	ok		
+2007	DU145	ok		
+2008	EP156T	ok		
+2009	EPT1	ok		
+2010	NOMO-1	ok		(NOMO1)
+2011	MKN28	ok		
+2012	SNU216	ok		
+2013	CL1207	ok		
+2016	GM18508	ok		
+2017	GM18516	ok		
+2018	GM18522	ok		
+2019	GM19141	ok		
+2020	GM19204	ok		
+2021	MDA-MD-231	ok		(MDAMD231)
+2022	WM115	ok		
+2023	WM266-4	ok		(WM2664)
+2025	FDCPmix	ok		
+2027	OCI-Ly3	ok		(OCILy3)
+2028	OCI-Ly7	ok		(OCILy7)
+2029	SU-DHL10	ok		(SUDHL10)
+2030	SU-DHL2	ok		(SUDHL2)
+2031	SU-DHL4	ok		(SUDHL4)
+2033	U-2932	ok		((U2932)|(U 2932))
+2036	GM12890	ok		
+2039	GM18486	ok		
+2048	GM2255	ok		
+2049	GM2588	ok		
+2050	GM2610	ok		
+2051	GM2630	ok		
+2052	MS1	ok		
+2053	MDA-MB-134	ok		(MDAMB134)
+2054	HS578T	ok		
+2055	AC16	ok		
+2057	GP5d	ok		
+2058	LREX'	ok		
+2059	AGS	ok		
+2060	HUG1N	ok		
+2061	WA09	ok		
+2065	COLO-741	ok		((COLO 741)|(COLO741))
+2066	SW480	ok		
+2067	KYSE-150	ok		(KYSE150)
+2068	KOPT-K1	ok		(KOPTK1)
+2069	DND-41	ok		(DND41)
+2070	BV2	ok		
+2071	2TS22C	ok		
+2074	E36	ok		
+2091	RN2	ok		
+2096	GCB	ok		
+2097	GM06993, GM11992	ok		(GM06993,GM11992)
+2155	WI-38	ok		(WI38)
+2159	OCI-Ly10	ok		(OCILy10)
+2162	LOX-IMVI	ok		((LOX IMVI)|(LOXIMVI))
+2170	CGR8	ok		
+2173	Lonza CC-2511	ok		(LonzaCC2511)
+2175	7298-2	ok		(72982)
+2176	748T	ok		
+2177	961C	ok		
+2178	106A	ok		
+2179	293FT	ok		
+2181	Py2T	ok		
+2182	iSLK-219	ok		(iSLK219)
+2184	BEC	ok		
+2192	PDB1lox-21/puro-26	ok		(PDB1lox21puro26)
+2194	PDB2lox-21	ok		(PDB2lox21)
+2200	T24	ok		
+2202	293T-Rex	ok		(293TRex)
+2204	MEFs	ok		
+2208	RPMI-7951	ok		(RPMI7951)
+2209	Hepa 1-6	ok		(Hepa16)
+2210	GM18498	ok		
+2211	GM18499	ok		
+2212	GM18501	ok		
+2213	GM18502	ok		
+2214	GM18504	ok		
+2215	GM18510	ok		
+2216	GM18511	ok		
+2217	GM18517	ok		
+2218	GM18519	ok		
+2219	GM18520	ok		
+2220	GM18852	ok		
+2221	GM18853	ok		
+2222	GM18855	ok		
+2223	GM18856	ok		
+2224	GM18858	ok		
+2225	GM18859	ok		
+2226	GM18861	ok		
+2227	GM18862	ok		
+2228	GM18870	ok		
+2229	GM18907	ok		
+2230	GM18909	ok		
+2231	GM18912	ok		
+2232	GM18913	ok		
+2233	GM18916	ok		
+2234	GM19092	ok		
+2235	GM19093	ok		
+2236	GM19098	ok		
+2237	GM19101	ok		
+2238	GM19114	ok		
+2239	GM19116	ok		
+2240	GM19119	ok		
+2241	GM19127	ok		
+2242	GM19130	ok		
+2243	GM19131	ok		
+2244	GM19137	ok		
+2245	GM19138	ok		
+2246	GM19140	ok		
+2247	GM19143	ok		
+2248	GM19144	ok		
+2249	GM19147	ok		
+2250	GM19152	ok		
+2251	GM19153	ok		
+2252	GM19159	ok		
+2253	GM19160	ok		
+2254	GM19171	ok		
+2255	GM19190	ok		
+2256	GM19192	ok		
+2257	GM19200	ok		
+2258	GM19201	ok		
+2259	GM19203	ok		
+2260	GM19206	ok		
+2261	GM19207	ok		
+2262	GM19209	ok		
+2263	GM19210	ok		
+2264	GM19222	ok		
+2265	GM19223	ok		
+2266	GM19225	ok		
+2267	GM19257	ok		
+2268	KYSE-70	ok		(KYSE70)
+2269	TT	ok		
+2270	HCC95	ok		
+2271	T29	ok		
+2272	Beko	ok		
+2275	HS27a	ok		
+2293	HFF	ok		
+2320	NHBE_RA	ok		
+2321	NHDF-Ad	ok		(NHDFAd)
+2322	RPTEC	ok		
+2323	SAEC	ok		
+2359	mG/ER	ok		(mGER)
+2360	Patski	ok		
+2421	D-341	ok		(D341)
+2422	ZhBTc4	ok		
+2423	CAL-1	ok		(CAL1)
+2425	SUM185PE	ok		(SUM185)
+2426	SUM159PT	ok		((SUM159)|(SUM-159))
+2427	HCC2157	ok		
+2428	BT-549	ok		(BT549)
+2430	YCC3	ok		
+2431	KATO III	ok		((KATO3)|(KATOIII)|(KATO-III))
+2432	L1236	ok		
+2433	L428	ok		
+2434	L591	ok		
+2435	Reh	ok		
+2436	WT26	ok		
+2437	GRANTA-519	ok		(GRANTA519)
+2439	TIVE-LTC	ok		(TIVELTC)
+2440	MS12	ok		
+2441	Raw 264.7	ok		((RAW264.7)|(Raw264.7))
+2442	IDG-SW3	ok		(IDGSW3)
+2453	Swiss-3T3	ok		(Swiss3T3)
+2455	TCam-2	ok		(TCam2)
+2456	H929	ok		
+2457	EpiSC9	ok		
+2460	NTKO	ok		
+2461	TKO	ok		
+2463	A3.01	ok		
+2464	ACH2	ok		
+2465	NCHA1	ok		
+2466	NCHA2	ok		
+2467	ES3	ok		
+2468	NCI-H1993	ok		(NCIH1993)
+2469	NCI-H2347	ok		(NCIH2347)
+2470	HBPALL	ok		
+2471	NTERA-2	ok		(NTERA2)
+2476	SF8628	ok		
+2477	SW1353	ok		
+2481	Wehi-231	ok		(Wehi231)
+2483	GBM1A	ok		
+2484	GBM1B	ok		
+2485	90-8TL	ok		(908TL)
+2486	NCI-H526	ok		(NCIH526)
+2487	NCI-H1755	ok		(NCIH1755)
+2488	HCC4018	ok		
+2489	NCI-H128	ok		(NCIH128)
+2490	NCI-H1184	ok		(NCIH1184)
+2491	NCI-H2107	ok		((H2107)|(H-2107)|(NCIH2107))
+2492	NCI-H524	ok		((H524)|(NCIH524))
+2493	SF7761	ok		
+2494	D10.G4.1	ok		
+2496	GM02456	ok		
+2497	GM2555	ok		
+2498	MNC491	ok		
+2499	MNC492	ok		
+2500	UM-SCC-74A	ok		(UMSCC74A)
+2501	UM-SCC-4	ok		(UMSCC4)
+2502	CaSki	ok		
+2503	UM-SCC-47	ok		(UMSCC47)
+2504	TSC	ok		
+2505	OCI-Ly4	ok		(OCILy4)
+2506	Toledo	ok		
+2507	SK-N-SH_RA	ok		(SKNSH_RA)
+2508	786-0	ok		(7860)
+2509	MG-63	ok		(MG63)
+2510	ACHN	ok		
+2511	Daoy	ok		
+2512	KBM-7	ok		(KBM7)
+2513	Caki-2	ok		(Caki2)
+2514	SJSA-1	ok		(SJSA1)
+2516	A-172	ok		(A172)
+2517	PC-9	ok		(PC9)
+2518	SK-N-DZ	ok		(SKNDZ)
+2519	H4	ok		
+2520	SJCRH30	ok		
+2521	ES-CJ7	ok		(ESCJ7)
+2522	WW6	ok		
+2523	R1-AD1	ok		(R1AD1)
+2530	C4-2	ok		(C42)
+2532	P6D4	ok		
+2533	70Z/3	ok		(70Z3)
+2535	hMADS-3	ok		(hMADS3)
+2536	KELLY	ok		
+2538	D3	ok		
+2541	HMLER	ok		
+2542	Calu-3	ok		(Calu3)
+2543	501-Mel	ok		(501Mel)
+2545	LIS2	ok		
+2546	WIS2	ok		
+2548	PaTu8988S	ok		
+2549	DKO1	ok		
+2550	HEK293T	ok		
+2551	MDA-MB-436	ok		((MDA463)|(MDAMB436))
+2552	451Lu	ok		
+2555	MDA-MB-468	ok		(MDAMB468)
+2559	1064Sk	ok		
+2560	CyT49	ok		
+2562	GM06170	ok		
+2563	GM00011	ok		
+2564	MEF-1	ok		(MEF1)
+2567	Akata	ok		
+2568	SA121	ok		
+2569	SKMEL5	ok		(SK-MEL-5)
+2572	Neuro-2a	ok		(Neuro2a)
+2573	MOLM-13	ok		(MOLM13)
+2574	MonoMac6	ok		
+2577	P5424	ok		
+2578	Nalm6	ok		
+2580	EEC16	ok		
+2581	FT246	ok		
+2582	FT33	ok		
+2583	IOE11	ok		
+2584	IOE4	ok		
+2585	MRC5	ok		(MRC-5)
+2587	HES-3	ok		(HES3)
+2589	EB3	ok		
+2592	TSU-1621-MT	ok		(TSU1621MT)
+2595	HEK293A	ok		
+2596	CAL51-MCF7	ok		(CAL51MCF7)
+2597	21NT	ok		
+2598	SUM159-MDA453	ok		(SUM159MDA453)
+2599	SKmel147	ok		
+2602	MDA-MB-175VII	ok		(MDAMB175VII)
+2603	HCC70	ok		
+2604	JJN-3	ok		(JJN3)
+2606	SF268	ok		
+2607	ALL-SIL	ok		((SIL-ALL)|(ALLSIL))
+2608	NCI-H2052	ok		(NCIH2052)
+2609	X18.1.1	ok		
+2610	BicR	ok		
+2612	MV4-11	ok		(MV411|MV-4-11)
+2613	HAP-1	ok		(HAP1)
+2614	Delta47	ok		
+2615	Ovcar8	ok		
+2620	293T	ok		
+2622	1015c	ok		
+2623	PER-403	ok		(PER403)
+2624	10326	ok		
+2627	IMCD3	ok		
+2630	CClp1	ok		
+2631	CWR22Pc	ok		
+2632	OF4155	ok		
+2633	5.3S	ok		
+2634	H345	ok		
+2635	MOLM-14	ok		((Molm14)|(MOLM14))
+2636	SET2	ok		
+2640	8946	ok		
+2641	H358	ok		
+2642	H2009	ok		
+2643	E14Tg2A	ok		
+2645	HuCCT1	ok		
+2649	NGP	ok		
+2650	LHSAR	ok		
+2651	FH-Foxd3	ok		(FHFoxd3)
+2652	SMMC-7721	ok		(SMMC7721)
+2654	RL95-2	ok		(RL952)
+2656	LTED	ok		
+2657	Elf1	ok		
+2658	ILC87	ok	T cell tumor cell line 	
+2661	CP-A	ok		(CPA)
+2662	MM1.RL	ok		
+2663	WHIM12	ok		
+2665	OECM1	ok		
+2669	BetaTC6	ok		
+2670	BT-142	ok		(BT142)
+2671	GSC4	ok		
+2672	GSC6	ok		
+2673	GSC119	ok		
+2674	TF-1	ok		(TF1)
+2675	caki-1	ok		(caki1)
+2677	MutuI	ok		
+2678	C6661	ok		(C666-1)
+2679	CD-1	ok		(CD1)
+2680	SEM	ok		
+2681	BNL-CL.2	ok		(BNLCL.2)
+2682	M12	ok		
+2683	S194	ok		
+2684	C3H10T1/2	ok		(C3H10T12)
+2686	MUGCHOR	ok		
+2687	UCH2	ok		
+2690	YAC-1	ok		(YAC1)
+2691	IMEC	ok		
+2692	MIN6	ok		
+2693	TT2	ok		
+2694	6540 cells	ok		(6540cells)
+2695	Rj2.2.5	ok		
+2696	MIN6B1	ok		
+2697	Abl1/S1Cs-A5	ok		(Abl1S1CsA5)
+2698	R1-D567	ok		(R1D567)
+2699	DUCaP	ok		
+2700	NCI-H660	ok		(NCIH660)
+2701	JURL_MK1	ok		
+2704	PDB1lox-17/puro-5	ok		(PDB1lox17puro5)
+2705	PDB2lox-17	ok		(PDB2lox17)
+2706	GLC-16	ok		(GLC16)
+2707	NCI-H82	ok		((H82)|(NCIH82))
+2708	NCI-H69	ok		(NCIH69)
+2709	G1ER	ok		
+2711	16T	ok		
+2712	25L	ok		
+2713	2N1	ok		
+2714	HaCaT	ok		
+2715	KP1	ok		
+2716	KP22	ok		
+2717	MotL	ok		
+2718	NJH29	ok		
+2719	SHEP-21N	ok		(SHEP21N)
+2720	MMTV-Myc	ok		(MMTVMyc)
+2721	SUM149R	ok		
+2722	SUM149	ok		
+2723	MV4;11	ok		
+2724	COLO 205	ok		(COLO205)
+2727	CJM	ok		
+2728	COLO 679	ok		(COLO679)
+2730	SKMEL2	ok		
+2731	SKMEL30	ok		
+2732	MKN1	ok		
+2733	SNU016	ok		
+2734	SNU638	ok		
+2735	SNU719	ok		
+2737	MKN45	ok		
+2738	Capan-1	ok		(Capan1)
+2739	CFPAC-1	ok		(CFPAC1)
+2741	ZR-75-30	ok		(ZR7530)
+2742	LP-1	ok		(LP1)
+2743	BJEL	ok		
+2744	BJELM	ok		
+2745	LOUCY	ok		
+2746	CHP-134	ok		(CHP134)
+2747	DU-528	ok		((DU.528)|(DU528))
+2748	EBC-1	ok		(EBC1)
+2749	HCC827	ok		
+2750	LY1	ok		
+2751	MOLT-4	ok		(MOLT4)
+2752	NB-1643	ok		(NB1643)
+2753	P12-ICHIKAWA	ok		(P12ICHIKAWA)
+2754	PEER	ok		
+2755	PF382	ok		(PF-382)
+2756	SK-N-AS	ok		(SKNAS)
+2758	NCI-H460	ok		(NCIH460)
+2760	MM.1S	ok		
+2764	EL	ok		
+2765	ACC112	ok		
+2766	MN1	ok		
+2767	DOHH-2	ok		(DOHH2)
+2768	EL-4	ok		(EL4)
+2769	MC3T3-E1	ok		(MC3T3E1)
+2770	TE-7	ok		(TE7)
+2771	KYSE-510	ok		(KYSE510)
+2772	IMR-5/75	ok		(IMR575)
+2773	JM8.N4	ok		
+2774	Gen2.2	ok		
+2779	CEM/C1	ok		((CEM-C1)|(CEMC1))
+2780	mPEC	ok		
+2781	Ch8	ok		
+2782	Ch7	ok		
+2783	Ch5	ok		
+2784	Ch3	ok		
+2785	Ch1	ok		
+2786	Ch13	ok		
+2787	MG6	ok		
+2788	MG3	ok		
+2789	MD6	ok		
+2790	MC3	ok		
+2791	MB4	ok		
+2792	F5	ok		
+2793	C2	ok		
+2794	F1216	ok		
+2795	HCC1806	ok		
+2796	MAST	ok		
+2799	WM989	ok		
+2800	MD-901	ok		(MD901)
+2803	YCC-22	ok		(YCC22)
+2804	FU97	ok		
+2805	IM95	ok		
+2806	YCC-21	ok		(YCC21)
+2807	YCC-7	ok		(YCC7)
+2808	MKN7	ok		(MKN-7)
+2809	RERF-GC-1B	ok		(RERFGC1B)
+2811	SNU-16	ok		(SNU16)
+2812	SNU-1750	ok		(SNU1750)
+2813	NCC-59	ok		(NCC59)
+2814	OCUM-1	ok		(OCUM1)
+2815	697	ok		
+2816	MV4-11R	ok		(MV411R)
+2817	TTC-549	ok		(TTC549)
+2818	BT-16	ok		(BT16)
+2819	G-401	ok		(G401)
+2820	5637	ok		
+2823	Rh18	ok		
+2828	MIA PaCa-2	ok		(MIAPaCa2)
+2830	D283 Med	ok		((D283)|(D283Med))
+2831	V852	ok		
+2832	V576	ok		
+2833	V410	ok		
+2834	V389	ok		
+2835	V9P	ok		
+2836	V968	ok		
+2837	V940	ok		
+2838	V866	ok		
+2839	V855	ok		
+2840	V784	ok		
+2841	V703	ok		
+2842	V5	ok		
+2843	V481	ok		
+2844	V457	ok		
+2845	V456	ok		
+2846	V432	ok		
+2847	V429	ok		
+2848	V411	ok		
+2849	V206	ok		
+2850	V1106	ok		
+2851	V1074	ok		
+2852	V1058	ok		
+2853	V1051	ok		
+2854	V1024	ok		
+2855	V1009	ok		
+2857	AT-3	ok		(AT3)
+2858	MO1043	ok		
+2859	L3.6	ok		
+2860	SCMC	ok		
+2861	RMS238	ok		
+2862	RMS237	ok		
+2863	RMS216	ok		
+2864	RMS209	ok		
+2865	RMS206	ok		
+2866	RMS008	ok		
+2867	RH5	ok		
+2868	NS134	ok		
+2869	NS129	ok		
+2870	NCI-0082	ok		((NCI 0082)|(NCI0082))
+2871	NCI-0075	ok		((NCI 0075)|(NCI0075))
+2872	CTR	ok		
+2873	7250	ok		
+2874	U266B1	ok		(U266)
+2876	MK2	ok		
+2877	MK1	ok		
+2878	200-3-G6-4	ok		(2003G64)
+2880	UACC-257	ok		(UACC257)
+2882	PT45-P1	ok		(PT45P1)
+2883	HPAF-II	ok		(HPAFII)
+2884	Capan-2	ok		(Capan2)
+2885	IGEL a2	ok		(IGELa2)
+2888	SUM1315MO2	ok		(SUM1315)
+2890	HCC1395	ok		
+2891	SUM159R	ok		
+2893	SCOS-2	ok		((SCOS#2)|(SCOS2)|(SCOS 2))
+2896	PEO1	ok		
+2897	OVCA429	ok		
+2898	NIH:OVCAR-3	ok		((OVCAR3)|(NIH:OVCAR3))
+2901	SUP-B15	ok		(SUPB15)
+2902	IMR90hTert	ok		
+2903	MM1S	ok		
+2904	LAN6	ok		
+2905	LY2	ok		
+2906	MCF-7aro Let-R	ok		((Let-R)|(MCF7aroLetR))
+2907	aTC1-9	ok		(aTC19)
+2908	CM-14	ok		(CM14)
+2909	CM-13	ok		(CM13)
+2910	CM-12	ok		(CM12)
+2911	CM-11	ok		(CM11)
+2912	CM-10	ok		(CM10)
+2915	P19CL6	ok		
+2916	HCE-T	ok		(HCET)
+2917	VAL-3	ok		(VAL3)
+2918	HMC-P6	ok		(HMCP6)
+2919	HMC-LTR	ok		(HMCLTR)
+2920	HMC-LT	ok		(HMCLT)
+2921	HMC-L	ok		(HMCL)
+2922	MHH-MED-1	ok		(MHHMED1)
+2924	SK-N-BE(2)-C	ok		(SKNBE(2)C)
+2925	3C10	ok		
+2926	FDC-P1	ok		(FDCP1)
+2927	mpkCCD	ok		
+2928	LSC	ok		
+2931	Kasumi-3	ok		(Kasumi3)
+2933	KhES-1	ok		(KhES1)
+2934	NCI-H889	ok		((H889)|(NCIH889))
+2938	MGC-803	ok		(MGC803)
+2940	STHdh Q7/Q7	ok		(STHdhQ7Q7)
+2942	GHFT1	ok		(GHFT1-5)
+2944	hTERT-RPE1	ok		(hTERTRPE1)
+2946	MCFDCIS	ok		
+2947	T/C28a2	ok		((T/C 28a2)|(TC28a2))
+2949	BGC823	ok		
+2951	HFE145	ok		
+2953	SEES-3	ok		(SEES3)
+2954	Ba/F3	ok		(BaF3)
+2955	JHU-029	ok		(JHU029)
+2956	BT168	ok		
+2960	HEK293FT	ok		
+2963	C10	ok		
+2964	L 101	ok		(L101)
+2966	OVCAR3	ok		(OVCAR-3)
+2967	N2A	ok		
+2970	YB5	ok		
+2971	MPI-II	ok		(MPIII)
+2972	SUM229	ok		
+2974	ML-2	ok		(ML2)
+2976	iPSC2	ok		
+2979	melan-Ink4a-Arf-null	ok		(melanInk4aArfnull)
+2980	BeWo	ok		
+2982	SNU175	ok		
+2984	alpha-TN4	ok		(alphaTN4)
+2985	T778	ok		
+2986	VACO 868	ok		(VACO868)|(V868)
+2987	V8	ok		
+2988	VACO 503	ok		(VACO503)|(V503)
+2989	EpRas	ok		
+2992	Do-11-10	ok		(Do1110)
+2994	STHdhQ111	ok		
+2995	CAD	ok		
+2996	PC-3M-luc	ok		(PC3Mluc)
+2997	MCF10CA1a	ok		
+2998	WA01	ok		
+2999	KG1	ok		
+3000	HOBIT	ok		
+3001	KG1a	ok		
+3002	CJ7	ok		
+3003	LRSKBr3	ok		Lapatinib-resistant SKBr3
+3004	pSKBr3	ok		(parental SKBr3)
+3005	KURAMOCHI	ok		
+3006	FT194	ok		
+3007	EKOiE	ok		
+3008	BLM	ok		
+3011	P493	ok		
+3012	VA13	ok		
+3013	RCH-ACV	ok		(RCHACV)
+3014	KOPN-8	ok		(KOPN8)
+3016	TMD8	ok		
+3018	TIG-1	ok		(TIG1)
+3019	T3M-1	ok		(T3M1)
+3021	NCI-H1512	ok		(NCIH1512)
+3022	MUTZ-3	ok		(MUTZ3)
+3023	CMP-MN1-L	ok		(CMPMN1L)
+3025	Edom-iPS-2	new		
+3026	C6-3	new		
+3027	VACO 5	new		
+3028	Mutz3	new		
+3030	SK-MEL-28	new		
+3031		new		
+3032	Urinary Bladder	new		
+3033	JHU-06	new		
+3034	168	new		
+3035	16HBE14o-	new		
+3036	hFOB	new		
+3037	MIN	new		
+3038	JHU-019	new		
+3039	M1	new		
+3040	SW1116	new		
+3041	9.4	new		
+3042	G4	new		
+3043	SCLC-24H	new		
+3044	SK-CO-1	new		
+3045	HUTU80	new		
+3046	CRC119	new		
+3047	PSA1-NG2	new		
+3048	T-84	new		
+3049	38.1	new		
+3050	mE6	new		
+3051	F129	new		
+3052	C15	new		
+3053	EpH4	new		
+3054	GM22268	new		
+3055	JHU-011	new		
+3056	SK-N-BE(2)c	new		
+3057	mAb 829	new		
+3058	beta-TC-6 (ATCC CRL-11506)	new		
+3059	Mixture	new		
+3060	P4D7F4(FLXist)	new		
+3061	579	new		
+3062	HOS	new		
+3063	Hu09	new		
+3064	MNNG	new		
+3065	633	new		
+3066	Sup-M2-TS	new		
+3067	Hybridoma 231	new		
+3068	232	new		
+3069	C20	new		
+3070	Hepa-1c1c7	new		
+3071	CAG	new		
+3072	B6.2	new		
+3073	131.2F8.5.9	new		
+3074	162	new		
+3075	TOV-21G	new		
+3077	PYS-2/3	new		
+3078	296	new		
+3079	RUES2	new		
+3080	PH [Human]	new		
+3081	GM02171	new		
+3082	T23	new		
+3083	mHypoE-N6	new		
+3084	hES-T3	new		
+3085	601	new		
+3086	GIST882	new		
+3087	688M	new		
+3088	FW3-47	new		
+3089	219	new		
+3090	FW3-218-1	new		
+3091	H5.46	new		
+3092	548	new		
+3093	GIST-T1	new		
+3094	T-289	new		
+3095	198	new		
+3096	T.T	new		
+3097	455	new		
+3098	B16-BL6	new		
+3099	514	new		
+3100	EU-4	new		
+3101	SLE005	new		
+3102	155	new		
+3103	143B	new		
+3104	MDA-584	new		
+3105	591	new		
+3106	LM7	new		
+3107	M112	new		
+3108	Kera-308	new		
+3109	WS8	new		
+3110	00136	new		
+3111	133	new		
+3112	NDS-758	new		
+3113	SKH1	new		
+3114	116	new		
+3115	528	new		
+3116	EU-5	new		
+3117	EU-6	new		
+3118	P4D7C2(XistDelXR-PID)	new		
+3119	225	new		
+3120	372	new		
+3121	751-NA-15	new		
+3122	207	new		
+3123	EU-1	new		
+3124	P3HR-1	new		
+3125	HG-3	new		
+3126	191	new		
+3127	MDA-183	new		
+3128	184	new		
+3129	FSD1/F4	new		
+3130	NB69	new		
+3131	911	new		
+3132	mAb 239	new		
+3133	PC9R	new		
+3134	380	new		
+3135	Cone_I_N-rCh209.04	new		
+3136	Mull_M_N-rCr263.4	new		
+3137	Mull_M_N-rCr33.05	new		
+3138	Cone_I_Y-209.11	new		
+3139	Amac_M_Y-30.02	new		
+3140	Mull_M_Y-rCr33.04	new		
+3141	Mull_M_Y-rCr33.01	new		
+3142	Mull_M_Y-263.08	new		
+3143	Bipo_I_Y-208.03	new		
+3144	Bipo_I_Y-rM0405	new		
+3145	Bipo_I_Y-208.04	new		
+3146	H69	new		
+3147	BG01V - ATCC SCRC-2002	new		
+3148	HT-3	new		
+3149	CAT(Wil)	new		
+3150	Mouse embryonic stem cells	new		
+3151	1184	new		
+3152	GM17942	new		
+3153	MMU	new		
+3154	Rod_I_Y-8602	new		
+3155	CTCF-NRL-Rod_M_N-P21	new		
+3156	C127	new		
+3157	MB361	new		
+3158	mEpiSC OEC2	new		
+3159	NRL-Rod_M_N-P21	new		
+3160	NRL-Rod_M_N-P6	new		
+3161	Amac_I_N-rG79.04	new		
+3162	Cone_M_N-rCh257.4	new		
+3163	Bipo_I_Y-rM0401	new		
+3164	GRM6-Bipo_M_N	new		
+3165	MB231	new		
+3166	MB436	new		
+3167	BICR16	new		
+3168	BHY	new		
+3169	BICR6	new		
+3170	BICR31	new		
+3171	Detroit562	new		
+3172	Mull_M_Y-Cr143.01	new		
+3173	76NF2V	new		
+3174	M.M.	new		
+3175	N87	new		
+3176	MLL-AF9	new		
+3177	MKL-1	new		
+3178	AmacFibr_F_N-fG140.02	new		
+3179	MullFibr_F_N-FCR02	new		
+3180	ID00014	new		
+3181	ID00015	new		
+3182	ID00016	new		
+3183	TS/A clone F1	new		
+3184	SW48	new		
+3185	hMSC-TERT4	new		
+3186	RodFibr_F_Y-FNR07	new		
+3187	Bipo_I_N-rM0408	new		
+3188	MullFibr_F_N-FCR01	new		
+3189	HCC1937	new		
+3190	YD8	new		
+3191	RPM-MC	new		
+3192	Mull_M_N-rCr143.02	new		
+3193	SKmel239	new		
+3194	GM03164	new		
+3195	TALL-1	new		
+3196	HS-ES-2M	new		
+3197	ZNF532-NUT 24335	new		
+3198	JMSU-1	new		
+3199	HUES8 hESCs	new		
+3200	Cone_M_Y-257.03	new		
+3201	Cone_I_Y-209.12	new		
+3202	Cone_I_Y-209.13	new		
+3203	TIME	new		
+3204	HK-2 [Human kidney]	new		
+3205	I 3	new		
+3206	iPS cells	new		
+3207	UACC812	new		
+3208	PluriStem 129S6	new		
+3209	HEK	new		
+3210	NB490	new		
+3211	PAR	new		
+3212	D1 ORL UVA	new		
+3213	Osteosarcoma Cell Line SJSA	new		
+3214	Hoxb8-FL	new		
+3215	2A3	new		
+3216	HUDEP-2	new		
+3217	B16-F10	new		
+3218	J2E	new		
+3219	H460 cells	new		
+3220	SJNB-8	new		
+3221	LAN-1	ok		(LA-N-1)
+3222	GI-ME-N	new		
+3223	IMR-32	new		
+3224	CLB-Pe	new		
+3225	MB468	new		
+3226	MGH-U4	new		
+3227	32D Myeloid	new		
+3228	Definitive Endoderm (ES derived)	new		
+3229	Detroit 562	new		
+3230	BL-2	new		
+3231	GSU	new		
+3232	SJNB-6	new		
+3233	WM164	new		
+3234	LNAR'	new		
+3235	TTC1240	new		
+3236	DIPG012	new		
+3237	DIPG007	new		
+3238	AU565	new		
+3239	CLB-Ga	new		
+3240	IMR-5	new		
+3241	A-498	new		
+3242	B1 NIH	new		
+3243	Bel-7402	new		
+3244	H3122	new		
+3245	3T3F442A	new		
+3246	Colo-205	new		
+3247	H209	new		
+3248	Lu130	new		
+3249	DMS53	new		
+3250	TL-Om1	new		
+3251	ATL-2	new		
+3252	MDA-PCa2b	new		
+3253	LS8817	new		
+3255	breast triple negative tumor cell line BCSC1	new		
+3256	SK-UT-1	new		
+3257	MDA-MB-157	new		
+3258	CHL-1	new		
+3259	H1975	new		
+3260	HNE1	new		
+3262	HK1	new		
+3263	TREx-(F3H3)-K-Rta BCBL-1 cells	new		
+3264	SCC9	new		
+3265	U-251MG	new		
+3266	TE6	new		
+3267	TE10	new		
+3268	HSC4	new		
+3269	NPMc+ leukemia OCI-AML3 cells	new		
+3270	Primary mammary epithelial cells	new		
+3271	GM00739	new		
+3272	SaOS	new		
+3273	AML12	new		
+3274	mpkDCT4a	new		
+3275	SUM44	new		
+3276	CHP-212	new		
+3277	GI-CA-N	new		
+3278	29c	new		
+3279	SH(15M)	new		
+3280	HUVEC	new		
+3281	DIPG cell line	new		
+3282	3T9	new		
+3283	KerCT	new		
+3284	CAL33	new		
+3285	Hep3B	new		
+3286	LAL-B  (ALL-B patient-derived cell line)	new		
+3287	NALM-6	new		
+3288	SH-EP	new		
+3289	SJNB-12	new		
+3290	SJNB-1	new		
+3292	20.3	new		
+3293	SK-N-FI	new		
+3294	TR14	new		
+3296	IGR-N-835	new		
+3297	hESC	new		
+3298	mESC	new		
+3299	SJNB-3	new		
+3300	JON	new		
+3302	OVCAR5	new		
+3303	HCC1143	new		
+3304	MOLT-3	ok		(MOLT3)
+3305	KB Cell	new		
+3306	iRunx1b::Damko	new		
+3307	HMEC-hTERT	new		
+3308	HCC cell line	new		
+3309	MSTO	new		
+3310	vu1199-F SV40	new		
+3311	vu1199-F SV41	new		
+3312	vu1199-F SV42	new		
+3313	vu1199-F SV43	new		
+3314	DN2	new		
+3315	J-Lat A72	new		
+3316	iBAd	new		
+3317	226LDM	new		
+3318	SH-EP-NMYCER	new		
+3319	HMLE	new		
+3320	ST1	new		
+3321	KK1	new		
+3322	TS-Rs26	new		
+3323	EOL1	new		
+3324	GM04025	new		
+3325	H23	new		
+3326	AsPC-1	new		
+3327	1346	new		
+3328	1508	new		
+3329	1522	new		
+3330	RT-4	new		
+3331	Hu5/E18	new		
+3332	SYO1	new		
+3333	4T1	new		
+3334	H460	new		
+3335	Aska	new		
+3336	IPSC-derived Hematopoietic Progenitor Cells (transduced with lentivirus)	new		
+3337	NCIH810	new		
+3338	R26M2rtTA/+;TetOcre;Sdhcfl/fl	new		
+3339	n/a	new		
+3340	LN95	new		
+3341	Lund human mesencephalic cells (LUHMES)	new		
+3342	3T3	new		
+3343	P-1	new		
+3344	CAL-51	new		
+3345	MOLT-16	new		
+3346	R26M2rtTA/+;TetOcre;Sdhcfl/wt	new		
+3347	Mbd3f/- cell line	new		
+3348	Mtf2 GT/GT	new		
+3349	WT hiPSC#1	new		
+3350	RH3	new		
+3351	CAL51	new		
+3352	RMG-I	new		
+3353	HEYA8	new		
+3354	OCI-AML3	new		
+3355	F1-2.1	new		
+3356	H19101	new		
+3357	H19098	new		
+3358	H21792	new		
+3359	H21194	new		
+3360	H20682	new		
+3361	H20961	new		
+3362	H18511	new		
+3363	H18489	new		
+3364	H28815	new		
+3365	H28126	new		
+3366	153BR	new		
+3367	CRL7250 (fibroblast)	new		
+3368	HSSY2 (SS)	new		
+3369	SUIT-2	new		
+3370	MEF	new		
+3371	A1847	new		
+3372	HS-SY-2	new		
+3373	E4	new		
+3374	EED -/-	new		
+3375	32.2	new		
+3376	GIST-48B	new		
+3377	U_H01	new		
+3378	GM09236	new		
+3379	GM09237	new		
+3380	A9 [Mouse hybridoma]	new		
+3381	Hep-64.1	new		
+3382	HBL_1	new		
+3383	8.03	new		
+3384	HCC3153	new		
+3385	GC-1 spg	new		
+3386	UACC62	new		
+3387	UCLA 1	new		
+3388	SW1271	new		
+3389	SIRT6.2-7	new		
+3390	L-C-B	new		
+3391	HSSYII	new		
+3392	2510	new		
+3393	2356	new		
+3394	2305	new		
+3395	200212	new		
+3396	2989	new		
+3397	GM17212	new		
+3398	M5076	new		
+3399	P388/NVB-2.5	new		
+3400	A498	new		
+3401	UO31	new		
+3402	MALME3	new		
+3403	Esrrb-2a-GFPd-IBIH	new		
+3404	MRC-iPS-26	new		
+3405	RMG-1	new		
+3406	12.1	new		
+3407	peritoneal macrophage	new		
+3408	HDFa	new		
+3409	Tg2a	new		
+3410	11.9	new		
+3411	1127	new		
+3412	1125	new		
+3413	1066	new		
+3414	mAb 986.35	new		
+3415	SM [Human B-cell]	new		
+3416	LAPC4	new		
+3417	MRC-iPS-99	new		
+3418	RPMI-8226	new		
+3419	NCI-H226	new		
+3420	U251	new		
+3421	92-2	new		
+3422	SET-2	new		
+3423	H3.1	new		
+3424	MUG-Chor1	new		
+3425	c1 (B6NLxv1c2)	new		
+3426	EndoC-BH1 human pancreatic beta cell line	new		
+3427	TX1072	new		
+3428	TXY	new		
+3429	LXXVIII-2E5-A8	new		
+3430	GM23338	ok		
+3431	402-91	new		
+3432	1765-92	new		
+3433	DN3	new		
+3434	GM22651	new		
+3435	GM22650	new		
+3436	GM22649	new		
+3437	GM22648	new		
+3438	GM22647	new		
+3439	MDA_MB_231	new		
+3440	M.R.	new		
+3441	S4 [Mouse hybridoma]	new		
+3442	ARP-1	new		
+3443	XG-6	new		
+3444	RPMI8226	new		
+3445	PE1	new		
+3446	PCM6	new		
+3447	OPM2	new		
+3448	OCIMY5	new		
+3449	L363	new		
+3450	KMS34	new		
+3451	KMS28	new		
+3452	KMS27	new		
+3453	KMS26	new		
+3454	KMS21BM	new		
+3455	KMS20	new		
+3456	KMS18	new		
+3457	KMS12PE	new		
+3458	KMS12BM	new		
+3459	Karpas620	new		
+3460	H1112	new		
+3461	American Type Culture Collection (Catalog Number: PCS-201-012)	new		
+3462	BIN-67	new		
+3463	SCCOHT-1	new		
+3464	ZR75-1	new		
+3465	SiHa	new		
+3466	ND-1	new		
+3467	HNSCC cell line FaDu	new		
+3468	MM029	new		
+3469	HS895T	new		
+3470	MM032	new		
+3471	iSLK	new		
+3472	resistant clone 3 TOV21G cell line (c3)	new		
+3473	parental TOV21G cell line	new		
+3474	LUHMES	new		
+3475	RH30	new		
+3476	BC-3	new		
+3477	SCC25	new		
+3478	neonatal cardiac fibroblast cell line expressing large T antigen	new		
+3479	hTert-HME1	new		
+3480	12Z endometriotic epithelial cells	new		
+3481	pEAK Rapid	new		
+3482	MEL270	new		
+3483	PNT1a	new		
+3484	mHypoE-N3	new		
+3485	MC57G	new		
+3486	GM12893	new		
+3487	GM12889	new		
+3488	GM12888	new		
+3489	GM12887	new		
+3490	GM12886	new		
+3491	GM12885	new		
+3492	GM12884	new		
+3493	GM12883	new		
+3494	GM12882	new		
+3495	GM12881	new		
+3496	GM12880	new		
+3497	GM12879	new		
+3498	GM12877	new		
+3499	ATCC CRL-4003	new		
+3500	RMG1	new		
+3501	JHUEM-14	new		
+3502	PYS-2/12	new		
+3503	Rec-1	new		
+3504	HCC1599	new		
+3505	MB157	new		
+3506	CW1914-2	new		
+3507	D425 Med	new		
+3508	Vl3-2m	new		
+3509	3617-KOGR	new		
+3510	2223	new		
+3511	3655	new		
+3512	3332	new		
+3513	CW2012	new		
+3514	DI28	new		
+3515	3214	new		
+3516	1517	new		
+3517	PC-3M	new		
+3518	KPC4	new		
+3519	2097	new		
+3520	2455	new		
+3521	2481	new		
+3522	2489	new		
+3523	2519	new		
+3524	LM3	new		
+3525	D458	new		
+3526	MM1	new		
+3527	3117	new		
+3528	3069	new		
+3529	3057	new		
+3530	2894	new		
+3531	2008/C13*5.25	new		
+3532	BWTG3	new		
+3533	293 Flp-In	new		
+3534	HUDEP2 cells	new		
+3535	Crispr edited HUDEP2 bulk	new		
+3536	C.M.L.	new		
+3537	F4/B8	new		
+3538	3363	new		
+3539	3335	new		
+3540	3295	new		
+3541	3291	new		
+3542	3274	new		
+3543	3226	new		
+3544	U20S AsiSI	new		
+3545	97L	new		
+3546	Dombi23	new		
+3547	ES-C57BL/6	new		
+3548	melanoma cell line B16-F12	new		
+3549	H1703	new		
+3550	UACC-812 C-MYC overexpression cell line	new		
+3551	UACC-812 flag cell line	new		
+3552	JHC7	new		
+3553	UM-Chor1	new		
+3554	RH41	new		
+3555	H838	new		
+3556	HT22	new		
+3557	KPC9	new		
+3558	GM02063	new		
+3559	ipNF05.5 neurofibroma cell line	new		
+3560	SGC7901	new		
+3561	KD [Human lip fibroblast]	new		
+3562	HL7702	new		
+3563	MV4:11	new		
+3564	3128	new		
+3565	3028	new		
+3566	2229	new		
+3567	2566	new		
+3568	2576	new		
+3569	2647	new		
+3570	2687	new		
+3571	2726	new		
+3572	3264	new		
+3573	3126	new		
+3574	3136	new		
+3575	3145	new		
+3576	3164	new		
+3577	3367	new		
+3578	3381	new		
+3579	3463	new		
+3580	3545	new		
+3581	3570	new		
+3582	3665	new		
+3583	3688	new		
+3584	DI102	new		
+3585	DI36	new		
+3586	2545	new		
+3587	3388	new		
+3588	3438	new		
+3589	HSJD001	new		
+3590	RKI	new		
+3591	2997	new		
+3592	HSJD007	new		
+3593	3565	new		
+3594	CW2080-2	new		
+3595	CW738	new		
+3596	MES20	new		
+3597	1953	new		
+3598	PNMNK1	new		
+3599	3752	new		
+3600	1919	new		
+3601	MESMN1	new		
+3602	1806	new		
+3603	3679	new		
+3604	2235	new		
+3605	1552	new		
+3606	DIX28	new		
+3607	1691B	new		
+3608	2188-1	new		
+3609	2907	new		
+3610	3038	new		
+3611	3094	new		
+3612	CW839	new		
+3613	DIX18	new		
+3614	HSJD012	new		
+3615	MES28	new		
+3616	CLASSPB1	new		
+3617	CW789	new		
+3618	GSC23	new		
+3619	NSC194	new		
+3620	ENSA	new		
+3621	HFNSCHINDB	new		
+3622	HFNSCFB	new		
+3623	CB660	new		
+3624	NM53	new		
+3625	NM176	new		
+3626	NM177	new		
+3627	NSC11	new		
+3628	786-M1A	new		
+3629	OS-LM1	new		
+3630	CEM	new		
+3631	HSB2	new		
+3632	MOLT16	new		
+3633	UOCB1	new		
+3634	Xenograft E2A-PBX	new		
+3635	Xenograft MLL-AF4	new		
+3636	Xenograft T-ALL	new		
+3637	GM20390	new		
+3638	KLC	new		
+3639	MRC-iPS-4	new		
+3640	FaDu	new		
+3641	A17Lox	new		
+3642	XIII-3H6-A12	new		
+3643	Fibroblast line 1 (CL1500023)	new		
+3644	Fibroblast line 2 (CL1500024)	new		
+3645	iNeuron line 2 (derived from IPS1500024/293)	new		
+3646	iPSC line 2 (IPS1500024/293, derived from CL1500024)	new		
+3647	A2B5+ iOPCs(H)	new		
+3648	Breast cancer cell line	new		
+3649	C32 [Human melanoma]	new		
+3650	Mac-1	new		
+3651	KPL	new		
+3652	MM6	new		
+3653	CWR22Rv1	new		
+3654	GM09027A	new		
+3655	GMA24A1F	new		
+3656	G1297	new		
+3657	MRC-iPS-98	new		
+3658	ventral prostatic tissues	new		
+3659	MCF10DCIS.com	new		
+3660	Craig Venter-B (CVB) hiPSC subline	new		
+3661	RL	new		
+3662	KMS28PE	new		
+3663	KMS28BM	new		
+3664	POP92	new		
+3665	TC-71 cells	new		
+3666	TC-32 cells	new		
+3667	ME-180	new		
+3668	HCCLM3	new		
+3669	CD8-positive dendritic cell line	new		
+3670	NGEJ	new		
+3671	EAC-T11	new		
+3672	EAC-T10	new		
+3673	EAC-T9	new		
+3674	EAC-T8	new		
+3675	EAC-T7	new		
+3676	EAC-T6	new		
+3677	EAC-T5	new		
+3678	EAC-T4	new		
+3679	EAC-T3	new		
+3680	EAC-T2	new		
+3681	EAC-T1	new		
+3682	GihTRT	new		
+3683	ChTRT	new		
+3684	SKGT4	new		
+3685	OE33	new		
+3686	OE19	new		
+3687	OACp4C	new		
+3688	OACM5.1	new		
+3689	KYAE1	new		
+3690	JH-EsoAd1	new		
+3691	Flo-1	new		
+3692	Eso26	new		
+3693	Craig Venter-I (CVI) hiPSC line	new		
+3694	Craig Venter-B (CVB) hiPSC line	new		
+3695	alphaT3	new		
+3696	Craig Venter-I (CVI) hiPSC subline	new		
+3697	doxycycline (Dox) inducible Foxa2-Venus, Gata4-tBFP ES cell line (T134)	new		
+3698	doxycycline (Dox) inducible Foxa2-Venus ES cell line (T128)	new		
+3699	double knock-in (DKI) mouse ES cell line carrying Foxa2-Venus and Sox17-Cherry gene fusions	new		
+3700	doxycycline (Dox) inducible Foxa2-Venus ES cell line (T119)	new		
+3701	Foxa2 knock-in/knock-out (Foxa2-Venus) KO mouse ES cell line	new		
+3702	Foxa2 knock-in/knock-out (Foxa2-Venus) control mouse ES cell line	new		
+3703	EA.Hy926	new		
+3704	Patient-derived melanoma cell line M381	new		
+3705	Patient-derived melanoma cell line M263	new		
+3706	Patient-derived melanoma cell line M262	new		
+3707	Patient-derived melanoma cell line M249	new		
+3708	Patient-derived melanoma cell line M233	new		
+3709	Patient-derived melanoma cell line M229	new		
+3710	Patient-derived melanoma cell line M397	new		
+3711	mose active T cell	new		
+3712	NCI-H520	new		
+3713	LK2	new		
+3714	HCC2814	new		
+3715	KNS62	new		
+3716	HCC2279	new		
+3717	NCI-H2887	new		
+3718	Calu-1	new		
+3719	SQ-1	new		
+3720	HCC2450	new		
+3721	LC-1/SQSF	new		
+3722	HARA	new		
+3723	KPsh	new		
+3724	HGEP	new		
+3725	SKN-3	new		
+3726	SCC-4	new		
+3727	Cal27	new		
+3728	XistTetOP_delBC	new		
+3729	DC1940	new		
+3730	Human pulmonary artery endothelial cells (HPAECs)	new		
+3731	H69AR	new		
+3732	Brx68	new		
+3733	Brx50	new		
+3734	Brx42	new		
+3735	Brx07	new		
+3736	GM02185	new		
+3737	alphaTC1	new		
+3738	2102EP	new		
+3739	CT36	new		
+3740	CT-4	new		
+3741	DKO	new		
+3742	SAH	new		
+3743	CTV-1	new		
+3744	U-937	new		
+3745	NB-4	new		
+3746	KG-1	new		
+3747	EM-3	new		
+3748	G-361	new		
+3749	Breast Cancer Cells	new		
+3750	mIMCD3	new		
+3751	NBL-S	new		
+3752	NB-69	new		
+3753	LA-N-5	new		
+3754	COG-N-415	new		
+3755	LAN5	new		
+3756	COGN415	new		
+3757	NB-1	new		
+3758	COG-N-453	new		
+3759	COG-N-440	new		
+3760	HEPM	new		
+3761	HIOEC	new		
+3762	KSIC_806	new		
+3763	LR14	new		
+3764	HFF1	new		
+3765	Hec1A	new		
+3766	SW1783	new		
+3767	KAT-7	new		

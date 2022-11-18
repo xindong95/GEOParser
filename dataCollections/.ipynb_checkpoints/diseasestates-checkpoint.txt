@@ -1,0 +1,123 @@
+name	status	comment	aliases
+Abelson Murine Leukemia Virus-induced Tumor			
+Acute Megakaryocytic Leukemia			
+Acute Monocytic Leukemia			
+Acute Myeloid Leukemia (AML)			
+Acute Promyelocytic Leukemia			
+Acute T Cell Leukemia			
+Acute lymphoblastic leukemia cells with MLL/AF4 translocation			
+Acute lymphomablastic leukemia (ALL)	ok		
+Adenocarcinoma			
+Adrenocortical Tumor	ok		
+Aspartoacylase Deficiency			
+Asthmatic	new		
+B Lymphomas	ok		
+B-cell Lymphoma			
+Bladder Cancer			
+Breast cancer	ok		
+Burkitt's Lymphoma			
+CLL	new		
+Cancer			
+Carcinoma			
+Cardiomyopathy			
+Cervical Adenocarcinoma			
+Chronic Myelogenous Leukemia			
+Clear cell renal cell carcinoma	ok		
+Colorectal Adenocarcinoma			
+Colorectal cancer	ok		
+Diffuse Large B-cell Lymphoma (DLBCL) 			
+Disease type AND/OR category unknown	new		
+Diseased animal	new		
+Ductal Carcinoma			
+EAE	new		
+EBV-transformed			
+Ehlers-Danlos Syndrome			
+Embryonal Carcinoma			
+Endometrial Adenocarcinoma			
+Epithelioid Carcinoma			
+Erythroleukemia			
+Erythroleukemic	ok		
+Esophageal Squamous Cell Carcinoma			
+Euploid	new		
+Ewing sarcoma	ok		
+Fibrosarcoma	ok		
+Gastric Adenocarcinoma			
+Gastric cancer	ok		
+Glioblastoma			
+Glioblastoma Multiforme			
+Glioma			
+Hepatocellular Carcinoma			
+Hodgkin's Lymphoma			
+Human Metastatic Melanoma			
+Hyper IgD Syndrome (HIDS)	new		
+Inflammation			
+Langerhans cell histiocytosis	new		
+Leukemia			
+Liposarcoma	ok		
+Lung Adenocarcinoma	ok		
+Lung Carcinoma			
+Lung Squamous Cell Carcinoma 	ok		
+Lymphoma	ok		
+Malignant Melanoma			
+Malignant Peripheral Nerve Sheath Tumor			
+Malignant Pluripotent Embryonal Carcinom			
+Medulloblastoma			
+Melanoma			
+Metastatic Neuroblastoma			
+Mycosis fungoides	new		
+Myelogenous Leukemia			
+Myeloma			
+NL kidney,right kidney resection for RCC			
+NL smooth muscle, stomach rmvd as part of pancr., CA			
+NUT Midline Carcinoma 	ok		
+Neuroblastoma			
+Neuroepithelioma			
+Non-Small Cell Lung Carcinoma	ok		
+Non-dysplastic metaplasia	ok		
+Normal			None
+Normal Mucosa, Diverticular Disease			
+Normal mucosa			
+Oesophageal Squamous Cell Carcinoma	ok		
+Osteomylitis			
+Osteosarcoma			
+Ovarian carcinoma			
+PLL	new		
+Pancreatic Carcinoma			
+Pancreatic ductal adenocarcinoma	ok		
+Papillary thyroid carcinoma	ok		
+Peripheral Vascular Disease			
+Plasmacytoma			
+Pleural mesothelioma 	ok		
+Primary Human Hepatocytes			
+Primary Pancreatic Adenocarcinoma			
+Primary effusion lymphoma			
+Prostate Carcinoma			
+Prostatic Adenocarcinoma			
+Renal cell adenocarcinoma			
+Retinoblastoma			
+Rhabdomyosarcoma			
+Sarcoma			
+Sezary syndrome	new		
+Simpson-Golabi-Behmel syndrome			
+Small Cell Lung Carcinoma			
+Small intestinal adenoma	ok		
+Systemic lupus erythematosus	new		
+T lymphoblastic Leukemia/lymphoma			
+T-cell Acute Lymphoblastic Leukemia (T-ALL)	ok		
+T-cell Lymphoma			
+Thyroid Medullary Carcinoma	ok		
+Transitional Cell Carcinoma			
+Triple negative breast adenocarcinoma	ok		
+Trisomy 21	new		
+Tumor			
+WT animal wo disease	new		
+Wilms tumor			
+coronary artery disease			
+healthy	new		
+histiocytic lymphoma	new		
+iron deficiency, bipolar			
+no AD evident at demise			
+no AD present			
+presumed normal			
+septic disease	new		
+xenografts tumors	new		
