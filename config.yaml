@@ -1,0 +1,35 @@
+# new, known, local
+work_mode: new
+
+# scRNA-seq, scATAC-seq
+data_type: scRNA-seq
+
+# Parser will get the pubic samples in this given date region, 
+# Please use the format: 2016/01/01-2017/01/01. 
+# None is the recent 100000 entries in GEO.
+date_range: 2016/01/01-2017/01/01
+
+# The table you want to save the new sample information
+# the default is "New_collection.xls" which will be built in the working directory.
+result_path: results/New_collection.txt
+
+# The folder path contain all the xml files, 
+# eg: "./geo", the xml storage format should be: "./geo/GSE1000/GSE1000102.xml
+geo_path: results/
+pubmed_path: results/
+# a one-column file contains Accession number that has been parsed
+exclude_acc_path: results/
+
+# currently not used!!! This option should be given or not. 
+# add this option means parse the new samples from GEO and add in MySQL database at same time, 
+# or means just parse new samples save in outside table, default is False.
+update_dc: False
+
+dcconfig:
+  celllines: dataCollections/celllines.txt
+  cellpops: dataCollections/cellpops.txt
+  celltypes: dataCollections/celltypes.txt
+  diseasestates: dataCollections/diseasestates.txt
+  journals: dataCollections/journals.txt
+  papers: dataCollections/papers.txt
+  tissuetypes: dataCollections/tissuetypes.txt
