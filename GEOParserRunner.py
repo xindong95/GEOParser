@@ -33,7 +33,6 @@ import yaml
 #     new_parser.add_argument('-el', dest='exclude', metavar="FILE", required=False,
 #                             help="a one-column file contains Accession number that has been parsed")
 
-
 # def add_known_parser(subparsers):
 
 #     known_parser = subparsers.add_parser('known', help='Add samples, known gsm id.',
@@ -52,7 +51,6 @@ import yaml
 #                               help='currently not used!!!  whether you want to update if gsmid existed already. Optional.')
 #     known_parser.add_argument('-el', dest='exclude', metavar="FILE", required=False,
 #                               help="a one-column file contains Accession number that has been parsed")
-
 
 # def add_local_parser(subparsers):
 #     local_parser = subparsers.add_parser(
@@ -93,52 +91,57 @@ def run_new(args):
             sys.exit(1)
 
 
-def run_known(args):
-    print('fresh database or not: ' + str(args.refresh))
-    infile, gsm_col, path, fill_or_not, file_save, excludes = args.infile, args.gsm_col, args.path_of_xml, args.fill, args.fsave, args.exclude
+# def run_known(args):
+#     print('fresh database or not: ' + str(args.refresh))
+#     infile, gsm_col, path, fill_or_not, file_save, excludes = args.infile, args.gsm_col, args.path_of_xml, args.fill, args.fsave, args.exclude
 
-    if not file_save:
-        file_save = 'singleCell_result_from_known.xls'
+#     if not file_save:
+#         file_save = 'singleCell_result_from_known.xls'
 
-    if path:
-        sync_samples_from_gse_factor(infile, gsm_col, fsave=file_save,
-                                     xmlPath=path, fill_or_not=fill_or_not, refresh=args.refresh)
-    else:
-        sync_samples_from_gse_factor(
-            infile=infile, gsm_col=gsm_col, fsave=file_save, fill_or_not=fill_or_not, refresh=args.refresh)
+#     if path:
+#         sync_samples_from_gse_factor(infile, gsm_col, fsave=file_save,
+#                                      xmlPath=path, fill_or_not=fill_or_not, refresh=args.refresh)
+#     else:
+#         sync_samples_from_gse_factor(
+#             infile=infile, gsm_col=gsm_col, fsave=file_save, fill_or_not=fill_or_not, refresh=args.refresh)
 
 
-def run_local(args):
-    file_save, fill_or_not, path, typo, excludes = args.fsave, args.fill, args.path_of_xml, True, False
-    if not file_save:
-        file_save = './singleCell_new_collection.xls'
+# def run_local(args):
+#     file_save, fill_or_not, path, typo, excludes = args.fsave, args.fill, args.path_of_xml, True, False
+#     if not file_save:
+#         file_save = './singleCell_new_collection.xls'
 
-    getLocalGeo(file_save, fill_or_not, path, typo, refresh=True)
+#     getLocalGeo(file_save, fill_or_not, path, typo, refresh=True)
 
 
 def main():
     description = "%(prog)s"
     epilog = "For command line options of each command, type: %(prog)s COMMAND -h"
     argparser = argparse.ArgumentParser(description = description, epilog = epilog)
-    argparser.add_argument('-c', dest='config', type=str, required=True, default= 'config.yaml',
-                           help='')
+    argparser.add_argument('-c', dest='config', type=str, default= 'config.yaml',
+                           help='Path of config file. DEFAULT: config.yaml')
     args = argparser.parse_args()
 
-    yaml.load(args.config)
+    with open(args.config, 'r') as f:
+        config = yaml.safe_load(f)
+
+    print(config)
+
+    work_mode = config['work_mode']
 
     if work_mode == "new":
         try:
-            run_new(args)
+            run_new(config)
         except MemoryError:
             sys.exit( "MemoryError occurred.")
     elif work_mode == "known":
         try:
-            run_known(args)
+            run_known(config)
         except MemoryError:
             sys.exit("MemoryError occurred.")
     elif work_mode == "local":
         try:
-            run_local(args)
+            run_local(config)
         except MemoryError:
             sys.exit("MemoryError occurred.")
     return
